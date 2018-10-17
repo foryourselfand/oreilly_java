@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa4910e7-a96b-4f37-9d72-e34b6ae17bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ch1/BeetSong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch1/PhraseOMatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch1/Compile/Exersise1b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch1/Magnets_Shuffle1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch1/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,25 +27,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2536" />
-          <entry key="txt" value="98" />
+          <entry key="java" value="3039" />
+          <entry key="txt" value="139" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2536" />
-          <entry key="PLAIN_TEXT" value="98" />
+          <entry key="JAVA" value="3039" />
+          <entry key="PLAIN_TEXT" value="139" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="10" />
+          <entry key="java" value="13" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="13" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -131,11 +132,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ch1/PhraseOMatic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+            <state relative-caret-position="744">
+              <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch1/Magnets_Shuffle1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch1/Compile/Exersise1b.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ch1/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -176,6 +204,10 @@
         <option value="$PROJECT_DIR$/src/Ch1/DooBee.java" />
         <option value="$PROJECT_DIR$/src/Ch1/BeetSong.java" />
         <option value="$PROJECT_DIR$/src/Ch1/PhraseOMatic.java" />
+        <option value="$PROJECT_DIR$/src/Ch1/Magnets.java" />
+        <option value="$PROJECT_DIR$/src/Ch1/Magnets_Shuffle1.java" />
+        <option value="$PROJECT_DIR$/src/Ch1/Compile/Exersise1b.java" />
+        <option value="$PROJECT_DIR$/src/Ch1/Test.java" />
       </list>
     </option>
   </component>
@@ -217,13 +249,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Ch1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch1" type="462c0819:PsiDirectoryNode" />
-              <item name="Examples" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -234,7 +259,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539810482000" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539811401479" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -255,7 +280,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PhraseOMatic">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="BeetSong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch1.BeetSong" />
       <module name="oreilly_java" />
@@ -269,38 +294,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DooBee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch1.DooBee" />
+    <configuration name="Exersise1b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch1.Compile.Exersise1b" />
+      <module name="oreilly_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch1.Compile.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Magnets_Shuffle1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch1.Magnets_Shuffle1" />
       <module name="oreilly_java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ch1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IfTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch1.Examples.IfTest2" />
-      <module name="oreilly_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ch1.Examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Loopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch1.Examples.Loopy" />
-      <module name="oreilly_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ch1.Examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,20 +333,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch1.Test" />
+      <module name="oreilly_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Loopy" />
-      <item itemvalue="Application.IfTest2" />
-      <item itemvalue="Application.DooBee" />
       <item itemvalue="Application.BeetSong" />
       <item itemvalue="Application.PhraseOMatic" />
+      <item itemvalue="Application.Magnets_Shuffle1" />
+      <item itemvalue="Application.Exersise1b" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Exersise1b" />
+        <item itemvalue="Application.Magnets_Shuffle1" />
         <item itemvalue="Application.PhraseOMatic" />
         <item itemvalue="Application.BeetSong" />
-        <item itemvalue="Application.DooBee" />
-        <item itemvalue="Application.IfTest2" />
-        <item itemvalue="Application.Loopy" />
       </list>
     </recent_temporary>
   </component>
@@ -351,7 +376,7 @@
       <workItem from="1539805926949" duration="42000" />
       <workItem from="1539805981761" duration="1009000" />
       <workItem from="1539807314625" duration="1826000" />
-      <workItem from="1539809163642" duration="1248000" />
+      <workItem from="1539809163642" duration="2048000" />
     </task>
     <task id="LOCAL-00001" summary="new project">
       <created>1539806986966</created>
@@ -381,17 +406,24 @@
       <option name="project" value="LOCAL" />
       <updated>1539809418994</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="VERU SERIOS (LONG) BUSINES APP">
+      <created>1539810512635</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1539810512635</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4125000" />
+    <option name="totallyTimeSpent" value="4925000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1378" height="1329" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49939686" visible="true" weight="0.14221556" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49939686" visible="true" weight="0.14221556" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -401,7 +433,7 @@
       <window_info id="Favorites" order="7" sideWeight="0.50060314" side_tool="true" weight="0.28443113" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32983023" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32983023" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -461,7 +493,8 @@
     <MESSAGE value="first class" />
     <MESSAGE value="Operations class" />
     <MESSAGE value="Before something very serious" />
-    <option name="LAST_COMMIT_MESSAGE" value="Before something very serious" />
+    <MESSAGE value="VERU SERIOS (LONG) BUSINES APP" />
+    <option name="LAST_COMMIT_MESSAGE" value="VERU SERIOS (LONG) BUSINES APP" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -529,8 +562,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch1/PhraseOMatic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        <state relative-caret-position="744">
+          <caret line="31" column="50" selection-start-line="31" selection-start-column="50" selection-end-line="31" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch1/Magnets_Shuffle1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch1/Compile/Exersise1b.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch1/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
         </state>
       </provider>
     </entry>
