@@ -1,4 +1,4 @@
-package Ch4.Magnets;
+package Ch4.Pool;
 
 public class Puzzle4TestDrive {
     public static void main(String[] args) {
