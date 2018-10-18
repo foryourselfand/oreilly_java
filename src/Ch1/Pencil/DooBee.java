@@ -1,4 +1,4 @@
-package Ch1;
+package Ch1.Pencil;
 
 public class DooBee {
     public static void main(String[] args) {

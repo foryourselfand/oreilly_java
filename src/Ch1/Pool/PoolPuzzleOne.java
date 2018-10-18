@@ -1,4 +1,4 @@
-package Ch1;
+package Ch1.Pool;
 
 public class PoolPuzzleOne {
     public static void main(String[] args) {

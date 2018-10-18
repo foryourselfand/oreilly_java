@@ -1,6 +1,6 @@
-package Ch1;
+package Ch1.Magnets;
 
-public class Magnets_Shuffle1 {
+public class Shuffle1 {
     public static void main(String[] args) {
         int x = 3;
 

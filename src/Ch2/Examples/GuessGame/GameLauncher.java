@@ -1,4 +1,4 @@
-package Ch2.GuessGame;
+package Ch2.Examples.GuessGame;
 
 public class GameLauncher {
     public static void main(String[] args) {

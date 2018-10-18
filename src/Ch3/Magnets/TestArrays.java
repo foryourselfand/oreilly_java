@@ -1,4 +1,4 @@
-package Ch3;
+package Ch3.Magnets;
 
 public class TestArrays {
     public static void main(String[] args) {

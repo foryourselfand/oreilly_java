@@ -1,4 +1,4 @@
-package Ch1;
+package Ch1.Examples;
 
 public class BeetSong {
     public static void main(String[] args) {
