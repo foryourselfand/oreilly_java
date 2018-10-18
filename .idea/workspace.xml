@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa4910e7-a96b-4f37-9d72-e34b6ae17bb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Ch3/Examples/HeapQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch3/Pool/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch3/Pool/TriangleTestDrive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch1/BeetSong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch1/Examples/BeetSong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch1/DooBee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch1/Pencil/DooBee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch1/Magnets_Shuffle1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch1/Magnets/Shuffle1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch1/PhraseOMatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch1/Examples/PhraseOMatic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch1/PoolPuzzleOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch1/Pool/PoolPuzzleOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch1/Examples/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch2/GuessGame/GameLauncher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch2/Examples/GuessGame/GameLauncher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch2/GuessGame/GuessGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch2/Examples/GuessGame/GuessGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch2/GuessGame/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch2/Examples/GuessGame/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch3/TestArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch3/Magnets/TestArrays.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,25 +28,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="6922" />
-          <entry key="txt" value="258" />
+          <entry key="java" value="7405" />
+          <entry key="txt" value="310" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6922" />
-          <entry key="PLAIN_TEXT" value="258" />
+          <entry key="JAVA" value="7405" />
+          <entry key="PLAIN_TEXT" value="310" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="62" />
+          <entry key="java" value="67" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="62" />
+          <entry key="JAVA" value="67" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -68,11 +61,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch3/Magnets/TestArrays.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch3/Pool/Triangle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+            <state relative-caret-position="144">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch3/Pool/TriangleTestDrive.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ch3/Examples/HeapQuiz.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -100,9 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch1/operations.java" />
-        <option value="$PROJECT_DIR$/src/Ch1/Operations.java" />
-        <option value="$PROJECT_DIR$/src/Ch1/Examples/Operations.java" />
         <option value="$PROJECT_DIR$/src/Ch1/Examples/SimpleCheck.java" />
         <option value="$PROJECT_DIR$/src/Ch1/Examples/Loopy.java" />
         <option value="$PROJECT_DIR$/src/Ch1/Examples/IfTest.java" />
@@ -151,6 +163,9 @@
         <option value="$PROJECT_DIR$/src/Ch1/Examples/Test.java" />
         <option value="$PROJECT_DIR$/src/Ch1/Examples/PhraseOMatic.java" />
         <option value="$PROJECT_DIR$/src/Ch3/Magnets/TestArrays.java" />
+        <option value="$PROJECT_DIR$/src/Ch3/Pool/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/Ch3/Pool/TriangleTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/Ch3/Examples/HeapQuiz.java" />
       </list>
     </option>
   </component>
@@ -199,6 +214,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Ch3" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch3" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch3" type="462c0819:PsiDirectoryNode" />
+              <item name="Pool" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -208,7 +237,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539846011402" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539846827168" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -229,7 +258,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestArrays">
+  <component name="RunManager" selected="Application.HeapQuiz">
     <configuration name="BooksTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch3.Compile.BooksTestDrive" />
       <module name="oreilly_java" />
@@ -243,25 +272,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DogTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch3.Examples.DogTestDrive" />
+    <configuration name="HeapQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch3.Examples.HeapQuiz" />
       <module name="oreilly_java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ch3.Examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EchoTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch2.Pool.EchoTestDrive" />
-      <module name="oreilly_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ch2.Examples.GuessGame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -295,19 +311,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TriangleTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch3.Pool.TriangleTestDrive" />
+      <module name="oreilly_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch3.Pool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.DogTestDrive" />
-      <item itemvalue="Application.EchoTestDrive" />
       <item itemvalue="Application.BooksTestDrive" />
       <item itemvalue="Application.HobbitsTestDrive" />
       <item itemvalue="Application.TestArrays" />
+      <item itemvalue="Application.TriangleTestDrive" />
+      <item itemvalue="Application.HeapQuiz" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HeapQuiz" />
+        <item itemvalue="Application.TriangleTestDrive" />
         <item itemvalue="Application.TestArrays" />
         <item itemvalue="Application.HobbitsTestDrive" />
         <item itemvalue="Application.BooksTestDrive" />
-        <item itemvalue="Application.EchoTestDrive" />
       </list>
     </recent_temporary>
   </component>
@@ -325,7 +355,7 @@
       <workItem from="1539805981761" duration="1009000" />
       <workItem from="1539807314625" duration="1826000" />
       <workItem from="1539809163642" duration="7704000" />
-      <workItem from="1539845235767" duration="775000" />
+      <workItem from="1539845235767" duration="1585000" />
     </task>
     <task id="LOCAL-00001" summary="new project">
       <created>1539806986966</created>
@@ -397,14 +427,22 @@
       <option name="project" value="LOCAL" />
       <updated>1539845604558</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="some more and testy refactoring">
+      <created>1539846165873</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1539846165873</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11356000" />
+    <option name="totallyTimeSpent" value="12166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1383" height="1329" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49939686" visible="true" weight="0.15809098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -416,7 +454,7 @@
       <window_info id="Favorites" order="7" sideWeight="0.50060314" side_tool="true" weight="0.28443113" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32983023" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32983023" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -482,7 +520,8 @@
     <MESSAGE value="Charapter 3 DONE" />
     <MESSAGE value="before smth shit with area" />
     <MESSAGE value="some refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="some refactoring" />
+    <MESSAGE value="some more and testy refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="some more and testy refactoring" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
@@ -764,10 +803,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch3/Pool/test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch3/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch3/Magnets/TestArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" column="21" lean-forward="true" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
+        <state relative-caret-position="408">
+          <caret line="17" column="18" lean-forward="true" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch3/Pool/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch3/Pool/TriangleTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="17" column="25" lean-forward="true" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch3/Examples/HeapQuiz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
