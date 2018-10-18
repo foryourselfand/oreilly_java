@@ -1,4 +1,4 @@
-package Ch2.Examples.Compile;
+package Ch2.Compile;
 
 public class DVDPackTestDrive {
     public static void main(String[] args) {

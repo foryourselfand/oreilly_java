@@ -1,4 +1,4 @@
-package Ch2.Examples;
+package Ch2.Pool;
 
 public class EchoTestDrive {
     public static void main(String[] args) {

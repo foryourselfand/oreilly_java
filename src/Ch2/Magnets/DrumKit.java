@@ -1,4 +1,4 @@
-package Ch2.Examples.Magnets;
+package Ch2.Magnets;
 
 public class DrumKit {
     boolean topHat = true;

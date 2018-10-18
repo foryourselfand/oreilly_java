@@ -1,4 +1,4 @@
-package Ch2.Examples.GuessGame;
+package Ch2.GuessGame;
 
 public class Player {
     int number = 0;
