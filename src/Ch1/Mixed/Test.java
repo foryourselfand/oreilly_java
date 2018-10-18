@@ -1,4 +1,4 @@
-package Ch1.Examples;
+package Ch1.Mixed;
 
 public class Test {
     public static void main(String[] args) {
