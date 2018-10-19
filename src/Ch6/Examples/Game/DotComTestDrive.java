@@ -2,16 +2,15 @@ package Ch6.Examples.Game;
 
 import java.util.ArrayList;
 
-public class SimpleDotComTestDrive {
+public class DotComTestDrive {
     public static void main(String[] args) {
         DotCom dot = new DotCom();
 
-        ArrayList<Integer> locations = new ArrayList<Integer>();
-        locations.add(2);
-        locations.add(3);
-        locations.add(4);
+        ArrayList<String> locations = new ArrayList<String>();
+        for (int i = 0; i < 3; i++)
+            locations.add(Integer.toString(3 + i));
         dot.setLocation(locations);
-        int userGuess = 2;
+        String userGuess = "2";
         String rezult = dot.chechYourself(userGuess);
 
         //
