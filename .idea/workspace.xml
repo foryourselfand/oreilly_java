@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa4910e7-a96b-4f37-9d72-e34b6ae17bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ch6/Examples/NewGame/GameHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch6/Examples/NewGame/DotCom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch6/Examples/NewGame/DotComBust.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch6/Examples/Game/DotCom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch6/Examples/OldGame/DotCom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch6/Examples/Game/DotComTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch6/Examples/OldGame/DotComTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch6/Examples/Game/GameHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch6/Examples/OldGame/GameHelper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch6/Examples/Game/SimpleGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch6/Examples/OldGame/SimpleGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch6/Examples/NewGame/GameHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch6/Examples/NewGame/GameHelper.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,36 +18,36 @@
     <session id="94123748">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="14384" />
-          <entry key="txt" value="496" />
+          <entry key="java" value="16035" />
+          <entry key="txt" value="506" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="14384" />
-          <entry key="PLAIN_TEXT" value="496" />
+          <entry key="JAVA" value="16035" />
+          <entry key="PLAIN_TEXT" value="506" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="124" />
+          <entry key="java" value="126" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="124" />
+          <entry key="JAVA" value="126" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -68,22 +66,45 @@
         <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/SimpleGame.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="624">
-              <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/NewGame/GameHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="662">
+              <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
               <folding>
-                <element signature="e#348#356#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/NewGame/GameHelper.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/NewGame/DotComBust.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+            <state relative-caret-position="-232">
+              <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#963#971#0" expanded="true" />
+                <element signature="e#193#201#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/NewGame/DotCom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+              <folding>
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#287#288#0" expanded="true" />
+                <element signature="e#311#312#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,10 +114,7 @@
         <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/DotComTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-              <folding>
-                <element signature="e#220#228#0" expanded="true" />
-              </folding>
+              <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -105,7 +123,7 @@
         <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/DotCom.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -120,6 +138,9 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>println</find>
+    </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
@@ -133,8 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch1/Magnets/Magnets_Shuffle1.java" />
-        <option value="$PROJECT_DIR$/src/Ch1/Magnets/Shuffle1.java" />
         <option value="$PROJECT_DIR$/src/Ch1/Examples/Test.java" />
         <option value="$PROJECT_DIR$/src/Ch1/Examples/PhraseOMatic.java" />
         <option value="$PROJECT_DIR$/src/Ch3/Magnets/TestArrays.java" />
@@ -184,6 +203,8 @@
         <option value="$PROJECT_DIR$/src/Ch6/Examples/Game/DotComTestDrive.java" />
         <option value="$PROJECT_DIR$/src/Ch6/Examples/OldGame/SimpleGame.java" />
         <option value="$PROJECT_DIR$/src/Ch6/Examples/NewGame/GameHelper.java" />
+        <option value="$PROJECT_DIR$/src/Ch6/Examples/NewGame/DotCom.java" />
+        <option value="$PROJECT_DIR$/src/Ch6/Examples/NewGame/DotComBust.java" />
       </list>
     </option>
   </component>
@@ -206,8 +227,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,12 +272,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539939747167" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539973968875" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -284,13 +305,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SimpleGameNewVersion">
-    <configuration name="DotComTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch6.Examples.OldGame.DotComTestDrive" />
+  <component name="RunManager" selected="Application.DotComBust">
+    <configuration name="DotComBust" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch6.Examples.NewGame.DotComBust" />
       <module name="oreilly_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch6.Examples.OldGame.*" />
+          <option name="PATTERN" value="Ch6.Examples.NewGame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,16 +372,15 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.SimpleGame" />
       <item itemvalue="Application.OutputTestDrive" />
       <item itemvalue="Application.MultiFor" />
       <item itemvalue="Application.MixFor5" />
-      <item itemvalue="Application.SimpleDotComTestDrive" />
-      <item itemvalue="Application.SimpleGameNewVersion" />
+      <item itemvalue="Application.DotComBust" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SimpleGameNewVersion" />
-        <item itemvalue="Application.SimpleDotComTestDrive" />
+        <item itemvalue="Application.DotComBust" />
         <item itemvalue="Application.MultiFor" />
         <item itemvalue="Application.MixFor5" />
         <item itemvalue="Application.OutputTestDrive" />
@@ -384,7 +404,8 @@
       <workItem from="1539845235767" duration="3830000" />
       <workItem from="1539892920105" duration="1913000" />
       <workItem from="1539894942003" duration="2240000" />
-      <workItem from="1539932540562" duration="7043000" />
+      <workItem from="1539932540562" duration="7078000" />
+      <workItem from="1539972146329" duration="2210000" />
     </task>
     <task id="LOCAL-00001" summary="new project">
       <created>1539806986966</created>
@@ -505,17 +526,24 @@
       <option name="project" value="LOCAL" />
       <updated>1539937204247</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="some stuff">
+      <created>1539939774899</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1539939774899</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25607000" />
+    <option name="totallyTimeSpent" value="27852000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1383" height="1329" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49939686" visible="true" weight="0.22595078" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49939686" visible="true" weight="0.22893363" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -525,7 +553,7 @@
       <window_info id="Favorites" order="7" sideWeight="0.50060314" side_tool="true" weight="0.28443113" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32983023" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32983023" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -598,12 +626,12 @@
     <MESSAGE value="Ch 5 done" />
     <MESSAGE value="Some code that ARE NOT IN THE BOOK" />
     <MESSAGE value="Now better" />
-    <option name="LAST_COMMIT_MESSAGE" value="Now better" />
+    <MESSAGE value="some stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="some stuff" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch3/Pool/test2.java" />
     <entry file="file://$PROJECT_DIR$/src/Ch3/test.java" />
     <entry file="file://$PROJECT_DIR$/src/Ch3/Magnets/TestArrays.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -652,12 +680,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
-          <folding>
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -665,18 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="662">
           <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-          <folding>
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-            <element signature="e#721#722#0" expanded="true" />
-            <element signature="e#751#752#0" expanded="true" />
-            <element signature="e#780#781#0" expanded="true" />
-            <element signature="e#815#816#0" expanded="true" />
-            <element signature="e#852#853#0" expanded="true" />
-            <element signature="e#886#887#0" expanded="true" />
-            <element signature="e#1005#1006#0" expanded="true" />
-            <element signature="e#1045#1046#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -726,10 +736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -744,10 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -809,13 +811,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Сh5/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Сh5/test.java" />
     <entry file="file://$PROJECT_DIR$/src/Ch5/Examples/SimpleGame/SimpleGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -889,26 +885,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/SimpleGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="15" selection-end-column="25" />
-          <folding>
-            <element signature="e#349#358#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java" />
     <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/TestingArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="696">
           <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-          <folding>
-            <element signature="e#177#185#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -923,36 +904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
-          <folding>
-            <element signature="e#181#189#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/DotComTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
-          <folding>
-            <element signature="e#220#228#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/DotCom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/SimpleGame.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-          <folding>
-            <element signature="e#348#356#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -963,13 +914,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/DotComTestDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/DotCom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/SimpleGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/NewGame/GameHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+        <state relative-caret-position="662">
+          <caret line="82" column="1" lean-forward="true" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#963#971#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/NewGame/DotCom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="50" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+          <folding>
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#287#288#0" expanded="true" />
+            <element signature="e#311#312#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/NewGame/DotComBust.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-232">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+          <folding>
+            <element signature="e#193#201#0" expanded="true" />
           </folding>
         </state>
       </provider>
