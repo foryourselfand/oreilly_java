@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa4910e7-a96b-4f37-9d72-e34b6ae17bb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Ch6/Examples/NewGame/GameHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch6/Examples/Game/DotCom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch6/Examples/Game/DotCom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch6/Examples/Game/SimpleDotComTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch6/Examples/Game/DotComTestDrive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch6/Examples/Game/SimpleGameNewVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch6/Examples/Game/SimpleGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch6/Examples/Game/DotCom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch6/Examples/OldGame/DotCom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch6/Examples/Game/DotComTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch6/Examples/OldGame/DotComTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch6/Examples/Game/GameHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch6/Examples/OldGame/GameHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch6/Examples/Game/SimpleGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch6/Examples/OldGame/SimpleGame.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,25 +31,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="13435" />
-          <entry key="txt" value="484" />
+          <entry key="java" value="14384" />
+          <entry key="txt" value="496" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13435" />
-          <entry key="PLAIN_TEXT" value="484" />
+          <entry key="JAVA" value="14384" />
+          <entry key="PLAIN_TEXT" value="496" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="122" />
+          <entry key="java" value="124" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="122" />
+          <entry key="JAVA" value="124" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -63,7 +65,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/Game/SimpleGame.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/SimpleGame.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="624">
               <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
@@ -75,16 +77,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/Game/GameHelper.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/NewGame/GameHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="566">
+              <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#963#971#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/Game/DotComTestDrive.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/DotComTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
               <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
@@ -96,7 +102,7 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/Game/DotCom.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/DotCom.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
               <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
@@ -127,8 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch1/Examples/BeetSong.java" />
-        <option value="$PROJECT_DIR$/src/Ch1/Pencil/DooBee.java" />
         <option value="$PROJECT_DIR$/src/Ch1/Magnets/Magnets_Shuffle1.java" />
         <option value="$PROJECT_DIR$/src/Ch1/Magnets/Shuffle1.java" />
         <option value="$PROJECT_DIR$/src/Ch1/Examples/Test.java" />
@@ -178,6 +182,8 @@
         <option value="$PROJECT_DIR$/src/Ch6/Examples/Game/DotCom.java" />
         <option value="$PROJECT_DIR$/src/Ch6/Examples/Game/SimpleGame.java" />
         <option value="$PROJECT_DIR$/src/Ch6/Examples/Game/DotComTestDrive.java" />
+        <option value="$PROJECT_DIR$/src/Ch6/Examples/OldGame/SimpleGame.java" />
+        <option value="$PROJECT_DIR$/src/Ch6/Examples/NewGame/GameHelper.java" />
       </list>
     </option>
   </component>
@@ -233,7 +239,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Ch6" type="462c0819:PsiDirectoryNode" />
               <item name="Examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Game" type="462c0819:PsiDirectoryNode" />
+              <item name="NewGame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch6" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
+              <item name="OldGame" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,7 +258,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539937131132" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539939747167" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -272,11 +286,11 @@
   </component>
   <component name="RunManager" selected="Application.SimpleGameNewVersion">
     <configuration name="DotComTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch6.Examples.Game.DotComTestDrive" />
+      <option name="MAIN_CLASS_NAME" value="Ch6.Examples.OldGame.DotComTestDrive" />
       <module name="oreilly_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch6.Examples.Game.*" />
+          <option name="PATTERN" value="Ch6.Examples.OldGame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,11 +338,11 @@
       </method>
     </configuration>
     <configuration name="SimpleGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch6.Examples.Game.SimpleGame" />
+      <option name="MAIN_CLASS_NAME" value="Ch6.Examples.OldGame.SimpleGame" />
       <module name="oreilly_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch6.Examples.Game.*" />
+          <option name="PATTERN" value="Ch6.Examples.OldGame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -370,7 +384,7 @@
       <workItem from="1539845235767" duration="3830000" />
       <workItem from="1539892920105" duration="1913000" />
       <workItem from="1539894942003" duration="2240000" />
-      <workItem from="1539932540562" duration="4590000" />
+      <workItem from="1539932540562" duration="7043000" />
     </task>
     <task id="LOCAL-00001" summary="new project">
       <created>1539806986966</created>
@@ -484,17 +498,24 @@
       <option name="project" value="LOCAL" />
       <updated>1539936487723</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Now better">
+      <created>1539937204247</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1539937204247</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23154000" />
+    <option name="totallyTimeSpent" value="25607000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1383" height="1329" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49939686" visible="true" weight="0.22595078" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49939686" visible="true" weight="0.22595078" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -504,7 +525,7 @@
       <window_info id="Favorites" order="7" sideWeight="0.50060314" side_tool="true" weight="0.28443113" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32983023" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32983023" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -576,18 +597,12 @@
     <MESSAGE value="Я НЕ МОГУ КОД ПИСАТЬ У МЕНЯ КИСТЬ БОЛИТ" />
     <MESSAGE value="Ch 5 done" />
     <MESSAGE value="Some code that ARE NOT IN THE BOOK" />
-    <option name="LAST_COMMIT_MESSAGE" value="Some code that ARE NOT IN THE BOOK" />
+    <MESSAGE value="Now better" />
+    <option name="LAST_COMMIT_MESSAGE" value="Now better" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch1/Examples/BeetSong.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch3/Pool/test2.java" />
     <entry file="file://$PROJECT_DIR$/src/Ch3/test.java" />
     <entry file="file://$PROJECT_DIR$/src/Ch3/Magnets/TestArrays.java">
@@ -877,7 +892,7 @@
     <entry file="file://$PROJECT_DIR$/src/test.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/Game/SimpleGame.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/SimpleGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="15" selection-end-column="25" />
@@ -914,14 +929,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/Game/DotCom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/Game/DotComTestDrive.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/DotComTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="51" lean-forward="true" selection-start-line="10" selection-start-column="51" selection-end-line="10" selection-end-column="51" />
@@ -931,7 +939,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/Game/SimpleGame.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/DotCom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/SimpleGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="624">
           <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
@@ -941,10 +956,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/Game/GameHelper.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/OldGame/GameHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch6/Examples/NewGame/GameHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="77" column="26" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#963#971#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

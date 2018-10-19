@@ -1,4 +1,4 @@
-package Ch6.Examples.Game;
+package Ch6.Examples.OldGame;
 
 import java.util.ArrayList;
 
