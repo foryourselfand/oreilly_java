@@ -1,4 +1,4 @@
-package Сh5.Compile;
+package Ch5.Compile;
 
 public class OutputTestDrive {
     public static void main(String[] args) {

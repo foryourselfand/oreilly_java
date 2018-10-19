@@ -1,4 +1,4 @@
-package Сh5.Mix;
+package Ch5.Mix;
 
 public class MixFor5 {
     public static void main(String[] args) {

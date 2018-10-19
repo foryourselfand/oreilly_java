@@ -1,4 +1,4 @@
-package Сh5.Examples.SimpleGame;
+package Ch5.Examples.SimpleGame;
 
 import java.io.BufferedReader;
 import java.io.IOException;

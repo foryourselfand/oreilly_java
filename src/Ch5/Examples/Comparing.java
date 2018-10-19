@@ -1,4 +1,4 @@
-package Сh5.Examples;
+package Ch5.Examples;
 
 public class Comparing {
     public static void main(String[] args) {

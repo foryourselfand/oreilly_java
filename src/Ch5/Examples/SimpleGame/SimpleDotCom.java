@@ -1,4 +1,4 @@
-package Сh5.Examples.SimpleGame;
+package Ch5.Examples.SimpleGame;
 
 public class SimpleDotCom {
     int[] locationCells;

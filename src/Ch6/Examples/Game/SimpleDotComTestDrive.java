@@ -1,12 +1,17 @@
-package Сh5.Examples.SimpleGame;
+package Ch6.Examples.Game;
+
+import java.util.ArrayList;
 
 public class SimpleDotComTestDrive {
     public static void main(String[] args) {
-        SimpleDotCom dot = new SimpleDotCom();
+        DotCom dot = new DotCom();
 
-        int[] locations = {2, 3, 4};
+        ArrayList<Integer> locations = new ArrayList<Integer>();
+        locations.add(2);
+        locations.add(3);
+        locations.add(4);
         dot.setLocation(locations);
-        String userGuess = "2";
+        int userGuess = 2;
         String rezult = dot.chechYourself(userGuess);
 
         //

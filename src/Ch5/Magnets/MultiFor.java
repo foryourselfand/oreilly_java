@@ -1,4 +1,4 @@
-package Сh5.Magnets;
+package Ch5.Magnets;
 
 public class MultiFor {
     public static void main(String[] args) {
