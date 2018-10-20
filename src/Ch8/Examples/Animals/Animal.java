@@ -1,6 +1,6 @@
-package Ch7.Examples.Animals;
+package Ch8.Examples.Animals;
 
-public class Animal {
+abstract public class Animal {
     public void eat() {
 
     }

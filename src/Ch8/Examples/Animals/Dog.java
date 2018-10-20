@@ -1,4 +1,4 @@
-package Ch7.Examples.Animals;
+package Ch8.Examples.Animals;
 
 public class Dog extends Animal {
 }

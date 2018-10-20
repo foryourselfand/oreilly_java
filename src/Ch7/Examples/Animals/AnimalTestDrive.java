@@ -1,5 +1,9 @@
 package Ch7.Examples.Animals;
 
+import Ch8.Examples.Animals.Animal;
+import Ch8.Examples.Animals.Cat;
+import Ch8.Examples.Animals.Dog;
+
 public class AnimalTestDrive {
     public static void main(String[] args) {
         Animal[] animals = new Animal[5];

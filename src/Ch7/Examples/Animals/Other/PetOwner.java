@@ -1,7 +1,7 @@
 package Ch7.Examples.Animals.Other;
 
-import Ch7.Examples.Animals.Dog;
 import Ch7.Examples.Animals.Hippo;
+import Ch8.Examples.Animals.Dog;
 
 public class PetOwner {
     public void start() {

@@ -3,7 +3,7 @@ package Ch7.Pool;
 public class Boat {
     private int length;
 
-    public void setLenght(int len) {
+    public void setLength(int len) {
         length = len;
     }
 
