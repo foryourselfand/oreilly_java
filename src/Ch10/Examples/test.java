@@ -1,4 +1,4 @@
-package Ch10;
+package Ch10.Examples;
 
 public class test {
     public static void main(String[] args) {
