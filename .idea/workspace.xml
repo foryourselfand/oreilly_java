@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa4910e7-a96b-4f37-9d72-e34b6ae17bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ch9/Examples/Constructors/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch9/Examples/Constructors/Hippo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch9/Examples/Constructors/TestHippo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch9/Examples/Life/Life.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch9/Examples/Life/TestLifeOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch9/Pencil/Boo/Boo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch9/Pencil/Boo/SonOfBoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch9/Detective/RetentionBot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch9/Detective/SimUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch9/Detective/TestLifeSupportSim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch9/Detective/V2Radiator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch9/Detective/V3Radiator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch9/Garbage/GC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch9/Popular/Bear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch9/Popular/Bees.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch9/Popular/Honey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch9/Popular/Kit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch9/Popular/Racon.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch9/Pencil/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch9/Pencil/Duck/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch9/Pencil/DuckTestDrive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch9/Pencil/Duck/DuckTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch9/test.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,27 +39,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="21441" />
-          <entry key="txt" value="587" />
+          <entry key="dummy" value="2" />
+          <entry key="java" value="22461" />
+          <entry key="txt" value="617" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="21441" />
-          <entry key="PLAIN_TEXT" value="587" />
+          <entry key="JAVA" value="22461" />
+          <entry key="PLAIN_TEXT" value="619" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="216" />
+          <entry key="java" value="233" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="216" />
+          <entry key="JAVA" value="233" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -72,28 +76,54 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch9/Examples/Duck.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch9/Detective/SimUnit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="57" selection-start-line="9" selection-start-column="57" selection-end-line="9" selection-end-column="57" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch9/Examples/Life/Life.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="120">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding>
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch9/Examples/Life/TestLifeOne.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch9/Detective/V2Radiator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+            <state relative-caret-position="168">
+              <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch9/Detective/V3Radiator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch9/Detective/RetentionBot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#115#116#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ch9/Detective/TestLifeSupportSim.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -125,18 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch7/Compile/MonsterTestDrive.java" />
-        <option value="$PROJECT_DIR$/src/Ch7/Compile/Monster.java" />
-        <option value="$PROJECT_DIR$/src/Ch7/Compile/Vampire.java" />
-        <option value="$PROJECT_DIR$/src/Ch7/Pool/Sailboat.java" />
-        <option value="$PROJECT_DIR$/src/Ch7/Pool/Rowboat.java" />
-        <option value="$PROJECT_DIR$/src/Ch7/Pool/Boat.java" />
-        <option value="$PROJECT_DIR$/src/Ch8.java" />
-        <option value="$PROJECT_DIR$/src/Ch7/Pool/TestBoats.java" />
-        <option value="$PROJECT_DIR$/src/Ch7/test.java" />
-        <option value="$PROJECT_DIR$/src/Ch8/test.java" />
-        <option value="$PROJECT_DIR$/src/Ch8/Examples/Canne.java" />
-        <option value="$PROJECT_DIR$/src/Ch8/Examples/MakeCanine.java" />
         <option value="$PROJECT_DIR$/src/Ch7/Examples/Animals/Other/Canine.java" />
         <option value="$PROJECT_DIR$/src/Ch7/Examples/Animals/Canine.java" />
         <option value="$PROJECT_DIR$/src/Ch7/Examples/Animals/CanineMake.java" />
@@ -176,6 +194,18 @@
         <option value="$PROJECT_DIR$/src/Ch9/Examples/Constructors/TestHippo.java" />
         <option value="$PROJECT_DIR$/src/Ch9/Examples/Life/TestLifeOne.java" />
         <option value="$PROJECT_DIR$/src/Ch9/Examples/Life/Life.java" />
+        <option value="$PROJECT_DIR$/src/Ch9/Compile/GC.java" />
+        <option value="$PROJECT_DIR$/src/Ch9/Garbage/GC.java" />
+        <option value="$PROJECT_DIR$/src/Ch9/Popular/Bees.java" />
+        <option value="$PROJECT_DIR$/src/Ch9/Popular/Kit.java" />
+        <option value="$PROJECT_DIR$/src/Ch9/Popular/Bear.java" />
+        <option value="$PROJECT_DIR$/src/Ch9/Popular/Racon.java" />
+        <option value="$PROJECT_DIR$/src/Ch9/Popular/Honey.java" />
+        <option value="$PROJECT_DIR$/src/Ch9/Detective/SimUnit.java" />
+        <option value="$PROJECT_DIR$/src/Ch9/Detective/V2Radiator.java" />
+        <option value="$PROJECT_DIR$/src/Ch9/Detective/V3Radiator.java" />
+        <option value="$PROJECT_DIR$/src/Ch9/Detective/PetentionBot.java" />
+        <option value="$PROJECT_DIR$/src/Ch9/Detective/TestLifeSupportSim.java" />
       </list>
     </option>
   </component>
@@ -223,38 +253,7 @@
               <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Ch9" type="462c0819:PsiDirectoryNode" />
-              <item name="Examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch9" type="462c0819:PsiDirectoryNode" />
-              <item name="Examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Constructors" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch9" type="462c0819:PsiDirectoryNode" />
-              <item name="Examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Life" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch9" type="462c0819:PsiDirectoryNode" />
-              <item name="Pencil" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch9" type="462c0819:PsiDirectoryNode" />
-              <item name="Pencil" type="462c0819:PsiDirectoryNode" />
-              <item name="Boo" type="462c0819:PsiDirectoryNode" />
+              <item name="Detective" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -263,10 +262,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/foryourselfand/Desktop/Java/oreilly_java/src/Ch9/Examples/Hippo.java" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/foryourselfand/Desktop/Java/oreilly_java/src/Ch9/Detective/SimUnit.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540203820842" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540205963964" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -398,7 +397,7 @@
       <workItem from="1540018874601" duration="5437000" />
       <workItem from="1540041025010" duration="151000" />
       <workItem from="1540042091212" duration="4808000" />
-      <workItem from="1540200061953" duration="2945000" />
+      <workItem from="1540200061953" duration="4999000" />
     </task>
     <task id="LOCAL-00001" summary="new project">
       <created>1539806986966</created>
@@ -582,11 +581,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540047290824</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="some stuff in ch 9">
+      <created>1540203928679</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1540203928679</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49886000" />
+    <option name="totallyTimeSpent" value="51940000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -601,7 +607,7 @@
     <frame x="0" y="23" width="1409" height="1329" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49698433" visible="true" weight="0.25896123" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49698433" visible="true" weight="0.25896123" />
       <window_info id="Structure" order="1" sideWeight="0.5030157" side_tool="true" weight="0.25896123" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -612,7 +618,7 @@
       <window_info anchor="bottom" id="Thumbnails" weight="0.32983023" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49962714" visible="true" weight="0.3484236" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962714" visible="true" weight="0.3484236" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -668,7 +674,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="first class" />
     <MESSAGE value="Operations class" />
     <MESSAGE value="Before something very serious" />
     <MESSAGE value="VERU SERIOS (LONG) BUSINES APP" />
@@ -693,84 +698,12 @@
     <MESSAGE value="Ch8 Pool" />
     <MESSAGE value="Ch 8 Done" />
     <MESSAGE value="Pencil" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pencil" />
+    <MESSAGE value="some stuff in ch 9" />
+    <option name="LAST_COMMIT_MESSAGE" value="some stuff in ch 9" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/oreilly_java.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7/Mixed/C.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="48" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7/Mixed/B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7/Mixed/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7/Mixed/Mixed.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7/Examples/Overload.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="21" column="31" lean-forward="true" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7/Compile/Dragon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7/Compile/Monster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7/Compile/Vampire.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7/Compile/MonsterTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch7/Pool/Boat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch7/Pool/Rowboat.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -1037,8 +970,93 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch9/Examples/Life/Life.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch9/Garbage/GC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch9/Popular/Kit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch9/Popular/Honey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch9/Popular/Bees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch9/Popular/Bear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch9/Popular/Racon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch9/Detective/SimUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch9/Detective/V2Radiator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="48" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch9/Detective/V3Radiator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch9/Detective/RetentionBot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#115#116#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch9/Detective/TestLifeSupportSim.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
         </state>
       </provider>
     </entry>
