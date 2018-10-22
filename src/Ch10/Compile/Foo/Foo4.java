@@ -1,4 +1,4 @@
-package Ch10.Compile;
+package Ch10.Compile.Foo;
 
 public class Foo4 {
     static final int x = 12;
