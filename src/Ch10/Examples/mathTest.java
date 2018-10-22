@@ -1,6 +1,6 @@
 package Ch10.Examples;
 
-public class test {
+public class mathTest {
     public static void main(String[] args) {
         int x = Math.round(42.2f);
         int y = Math.min(56, 12);

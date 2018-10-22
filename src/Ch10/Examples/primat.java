@@ -1,8 +1,8 @@
-package Ch10.Examples.Primat;
+package Ch10.Examples;
 
 import java.util.ArrayList;
 
-public class test {
+public class primat {
     public static void main(String[] args) {
         int x = 32;
         ArrayList list = new ArrayList();
@@ -22,6 +22,18 @@ public class test {
 
         Integer j = new Integer(5);
         Integer k = j + 3;
+
+        String s = "2";
+        x = Integer.parseInt(s);
+        double d = Double.parseDouble("420.24");
+
+        boolean b = new Boolean("true").booleanValue();
+//        boolean b = new Boolean("true");
+
+        d = 42.5;
+        String doubleString;
+        doubleString = "" + d; // оператор + перегружен
+        doubleString = Double.toString(d);
     }
 
     public void DoNumsOldWay() {
