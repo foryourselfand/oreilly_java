@@ -1,4 +1,4 @@
-package Ch9.Pencil;
+package Ch9.Pencil.Duck;
 
 public class Duck {
     int pounds = 6;

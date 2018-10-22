@@ -1,4 +1,4 @@
-package Ch9.Pencil;
+package Ch9.Pencil.Duck;
 
 public class DuckTestDrive {
     public static void main(String[] args) {
