@@ -1,4 +1,4 @@
-package Ch12.Magnets;
+package Ch11.Magnets;
 
 class MyEx extends Exception {
 }

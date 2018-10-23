@@ -1,9 +1,9 @@
-package Ch12.Examples.Poly;
+package Ch11.Examples.Poly;
 
 public class Washer {
     Laundry laundry = new Laundry();
 
-    public static void main(String[] args) throws ClothingException {
+    public static void main(String[] args) {
         //Оба метода пробрасывают исключение, но код все равно скомпилируется
         Washer a = new Washer();
         a.foo();
@@ -20,7 +20,7 @@ public class Washer {
 
     // ОБЪЯВЛЕНИЕ (переброс)
     //Откладываем неизбежное.
-    public void foo() throws ClothingException {
+    public void foo() {
         laundry.doBigLaundry();
     }
 }

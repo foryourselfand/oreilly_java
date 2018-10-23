@@ -1,4 +1,4 @@
-package Ch12.Examples.Poly;
+package Ch11.Examples.Poly;
 
 public class PantsException extends ClothingException {
 }

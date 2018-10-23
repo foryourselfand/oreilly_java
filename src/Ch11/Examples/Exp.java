@@ -1,4 +1,4 @@
-package Ch12.Examples;
+package Ch11.Examples;
 
 public class Exp {
     public Foo doRiskyThing(String s) throws Exception {

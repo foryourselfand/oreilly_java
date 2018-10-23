@@ -1,4 +1,4 @@
-package Ch12.Examples;
+package Ch11.Examples;
 
 public class ExceptionsTest {
     public static void main(String[] args) {

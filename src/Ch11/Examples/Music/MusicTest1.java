@@ -1,4 +1,4 @@
-package Ch12.Examples.Music;
+package Ch11.Examples.Music;
 
 import javax.sound.midi.MidiSystem;
 import javax.sound.midi.MidiUnavailableException;

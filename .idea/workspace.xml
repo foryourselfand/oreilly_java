@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa4910e7-a96b-4f37-9d72-e34b6ae17bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ch12/Magnets/ExTestDrive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,14 +29,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="31" />
-          <entry key="java" value="29336" />
-          <entry key="txt" value="893" />
+          <entry key="java" value="29339" />
+          <entry key="txt" value="928" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="29336" />
-          <entry key="PLAIN_TEXT" value="924" />
+          <entry key="JAVA" value="29339" />
+          <entry key="PLAIN_TEXT" value="959" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -86,8 +85,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Ch12/Magnets/ExTestDrive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+            <state relative-caret-position="456">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -209,12 +208,6 @@
               <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch12" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -225,7 +218,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/foryourselfand/Desktop/Java/oreilly_java/src/Ch9/Detective/SimUnit.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540287005720" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540287684952" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -256,12 +249,12 @@
   </component>
   <component name="RunManager" selected="Application.ExTestDrive">
     <configuration name="ExTestDrive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch12.Magnets.ExTestDrive" />
+      <option name="MAIN_CLASS_NAME" value="Ch11.Magnets.ExTestDrive" />
       <module name="oreilly_java" />
       <option name="PROGRAM_PARAMETERS" value="no" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch12.Magnets.*" />
+          <option name="PATTERN" value="Ch11.Magnets.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,11 +263,11 @@
       </method>
     </configuration>
     <configuration name="ExceptionsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch12.Examples.ExceptionsTest" />
+      <option name="MAIN_CLASS_NAME" value="Ch11.Examples.ExceptionsTest" />
       <module name="oreilly_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch12.Examples.*" />
+          <option name="PATTERN" value="Ch11.Examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -283,11 +276,11 @@
       </method>
     </configuration>
     <configuration name="MiniMiniMusicApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch12.Examples.Music.MiniMiniMusicApp" />
+      <option name="MAIN_CLASS_NAME" value="Ch11.Examples.Music.MiniMiniMusicApp" />
       <module name="oreilly_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch12.Examples.Music.*" />
+          <option name="PATTERN" value="Ch11.Examples.Music.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -296,12 +289,12 @@
       </method>
     </configuration>
     <configuration name="MiniMusicCmdLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch12.Examples.Music.MiniMusicCmdLine" />
+      <option name="MAIN_CLASS_NAME" value="Ch11.Examples.Music.MiniMusicCmdLine" />
       <module name="oreilly_java" />
       <option name="PROGRAM_PARAMETERS" value="102 30" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch12.Examples.Music.*" />
+          <option name="PATTERN" value="Ch11.Examples.Music.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,11 +303,11 @@
       </method>
     </configuration>
     <configuration name="TestExceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch12.Pencil.TestExceptions" />
+      <option name="MAIN_CLASS_NAME" value="Ch11.Pencil.TestExceptions" />
       <module name="oreilly_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch12.Pencil.*" />
+          <option name="PATTERN" value="Ch11.Pencil.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -364,7 +357,7 @@
       <workItem from="1540042091212" duration="4808000" />
       <workItem from="1540200061953" duration="13821000" />
       <workItem from="1540281739954" duration="4165000" />
-      <workItem from="1540285950381" duration="1002000" />
+      <workItem from="1540285950381" duration="1640000" />
     </task>
     <task id="LOCAL-00001" summary="new project">
       <created>1539806986966</created>
@@ -625,11 +618,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540286588444</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Magnets in CH 12 and all Ch - Done">
+      <created>1540287059022</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1540287059022</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65929000" />
+    <option name="totallyTimeSpent" value="66567000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -712,7 +712,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="Now Chapter 4 is almost done" />
     <MESSAGE value="Я НЕ МОГУ КОД ПИСАТЬ У МЕНЯ КИСТЬ БОЛИТ" />
     <MESSAGE value="Ch 5 done" />
     <MESSAGE value="Some code that ARE NOT IN THE BOOK" />
@@ -737,7 +736,8 @@
     <MESSAGE value="Pencil" />
     <MESSAGE value="Some stuff with exceptions and Polymorphism" />
     <MESSAGE value="Simple MusicApp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Simple MusicApp" />
+    <MESSAGE value="Magnets in CH 12 and all Ch - Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Magnets in CH 12 and all Ch - Done" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -1058,8 +1058,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch12/Magnets/ExTestDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="456">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>

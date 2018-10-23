@@ -1,4 +1,4 @@
-package Ch12.Pencil;
+package Ch11.Pencil;
 
 public class TestExceptions {
     public static void main(String[] args) {
