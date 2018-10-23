@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aa4910e7-a96b-4f37-9d72-e34b6ae17bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ch12/Examples/Poli/ClothingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch12/Examples/Poli/DressShirtException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch12/Examples/Poli/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch12/Examples/Poli/Laundry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch12/Examples/Poli/LingerieException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch12/Examples/Poli/PantsException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch12/Examples/Poli/ShirtException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch12/Examples/Poli/TeeShirtException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch12/Examples/Poli/Washer.java" afterDir="false" />
+    <list default="true" id="aa4910e7-a96b-4f37-9d72-e34b6ae17bb3" name="Default Changelist" comment="Some stuff with exceptions and Polymorphism">
+      <change afterPath="$PROJECT_DIR$/src/Ch12/Examples/Music/MiniMiniMusicApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch12/Examples/Music/MiniMusicCmdLine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,41 +17,41 @@
     <session id="94123748">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="3" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="6" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="15" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="31" />
-          <entry key="java" value="28371" />
-          <entry key="txt" value="822" />
+          <entry key="java" value="29192" />
+          <entry key="txt" value="878" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="28371" />
-          <entry key="PLAIN_TEXT" value="853" />
+          <entry key="JAVA" value="29192" />
+          <entry key="PLAIN_TEXT" value="909" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="2" />
-          <entry key="java" value="297" />
+          <entry key="java" value="313" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="297" />
+          <entry key="JAVA" value="313" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -74,37 +67,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poli/Laundry.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Music/MiniMiniMusicApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poli/Foo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+            <state relative-caret-position="24">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="2" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poli/Washer.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Music/MiniMusicCmdLine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poli/ClothingException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            <state relative-caret-position="264">
+              <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -139,9 +114,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch10/Examples/Duck.java" />
-        <option value="$PROJECT_DIR$/src/Ch10/Examples/PlayerTestDrive.java" />
-        <option value="$PROJECT_DIR$/src/Ch10/Examples/Player.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Examples/Foo.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Examples/Foof.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Examples/FinaleLaComedia/Foo.java" />
@@ -190,6 +162,9 @@
         <option value="$PROJECT_DIR$/src/Ch12/Examples/Poli/ClothingException.java" />
         <option value="$PROJECT_DIR$/src/Ch12/Examples/Poli/Foo.java" />
         <option value="$PROJECT_DIR$/src/Ch12/Examples/Poli/Washer.java" />
+        <option value="$PROJECT_DIR$/src/Ch12/Examples/Poly/Washer.java" />
+        <option value="$PROJECT_DIR$/src/Ch12/Examples/Music/MiniMiniMusicApp.java" />
+        <option value="$PROJECT_DIR$/src/Ch12/Examples/Music/MiniMusicCmdLine.java" />
       </list>
     </option>
   </component>
@@ -212,8 +187,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -257,7 +232,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/foryourselfand/Desktop/Java/oreilly_java/src/Ch9/Detective/SimUnit.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540285064786" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540286555252" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -286,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestExceptions">
+  <component name="RunManager" selected="Application.MiniMusicCmdLine">
     <configuration name="ExceptionsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch12.Examples.ExceptionsTest" />
       <module name="oreilly_java" />
@@ -300,12 +275,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FullMoons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch10.Magnets.FullMoons" />
+    <configuration name="MiniMiniMusicApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch12.Examples.Music.MiniMiniMusicApp" />
       <module name="oreilly_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch10.Magnets.*" />
+          <option name="PATTERN" value="Ch12.Examples.Music.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiniMusicCmdLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch12.Examples.Music.MiniMusicCmdLine" />
+      <module name="oreilly_java" />
+      <option name="PROGRAM_PARAMETERS" value="102 30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch12.Examples.Music.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,19 +308,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ch12.Examples.Music.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StaticTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch10.Compile.Static.StaticTest" />
-      <module name="oreilly_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ch10.Compile.Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -353,19 +329,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StaticTest" />
-      <item itemvalue="Application.FullMoons" />
       <item itemvalue="Application.MusicTest1" />
       <item itemvalue="Application.ExceptionsTest" />
       <item itemvalue="Application.TestExceptions" />
+      <item itemvalue="Application.MiniMiniMusicApp" />
+      <item itemvalue="Application.MiniMusicCmdLine" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MiniMusicCmdLine" />
+        <item itemvalue="Application.MiniMiniMusicApp" />
         <item itemvalue="Application.TestExceptions" />
         <item itemvalue="Application.ExceptionsTest" />
         <item itemvalue="Application.MusicTest1" />
-        <item itemvalue="Application.FullMoons" />
-        <item itemvalue="Application.StaticTest" />
       </list>
     </recent_temporary>
   </component>
@@ -393,7 +369,8 @@
       <workItem from="1540041025010" duration="151000" />
       <workItem from="1540042091212" duration="4808000" />
       <workItem from="1540200061953" duration="13821000" />
-      <workItem from="1540281739954" duration="3199000" />
+      <workItem from="1540281739954" duration="4165000" />
+      <workItem from="1540285950381" duration="519000" />
     </task>
     <task id="LOCAL-00001" summary="new project">
       <created>1539806986966</created>
@@ -640,11 +617,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540283137108</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Some stuff with exceptions and Polymorphism">
+      <created>1540285141195</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1540285141195</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63961000" />
+    <option name="totallyTimeSpent" value="65446000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -657,9 +641,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1409" height="1329" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49698433" visible="true" weight="0.22165325" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49698433" visible="true" weight="0.22457936" />
       <window_info id="Structure" order="1" sideWeight="0.5030157" side_tool="true" weight="0.25896123" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -669,8 +652,8 @@
       <window_info id="Favorites" order="7" sideWeight="0.5030157" side_tool="true" weight="0.25896123" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32983023" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962714" weight="0.3484236" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49962714" visible="true" weight="0.3484236" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935327" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32983023" />
@@ -725,8 +708,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
-    <MESSAGE value="some more and testy refactoring" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Charapter 4 - Done" />
     <MESSAGE value="Now Chapter 4 is almost done" />
     <MESSAGE value="Я НЕ МОГУ КОД ПИСАТЬ У МЕНЯ КИСТЬ БОЛИТ" />
@@ -751,25 +734,10 @@
     <MESSAGE value="Little exceprions in ch12" />
     <MESSAGE value="Little exceptions in ch12" />
     <MESSAGE value="Pencil" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pencil" />
-    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
-    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <MESSAGE value="Some stuff with exceptions and Polymorphism" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some stuff with exceptions and Polymorphism" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch9/Detective/V3Radiator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch9/Detective/V2Radiator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch9/Detective/SimUnit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -938,9 +906,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -965,16 +930,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch12/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples.java" />
+    <entry file="file://$PROJECT_DIR$/src/Ch12/test.java" />
     <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Exp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -982,27 +939,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Music.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Music/MusicTest1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Music.java" />
     <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Foo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-          <folding>
-            <element signature="e#66#67#0" expanded="true" />
-            <element signature="e#90#91#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1030,66 +971,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poli/PantsException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poli/LingerieException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poli/ShirtException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poli/DressShirtException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poli/TeeShirtException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" lean-forward="true" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poli/ClothingException.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poly/ClothingException.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poli/Laundry.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poly/DressShirtException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="55" selection-start-line="2" selection-start-column="55" selection-end-line="2" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poly/Foo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poly/Laundry.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poli/Foo.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poly/PantsException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poli/Washer.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poly/ShirtException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        <state relative-caret-position="48">
+          <caret line="2" column="52" selection-start-line="2" selection-start-column="52" selection-end-line="2" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poly/LingerieException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poly/TeeShirtException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Poly/Washer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Music/MusicTest1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Music/MiniMiniMusicApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Music/MiniMusicCmdLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
         </state>
       </provider>
     </entry>
