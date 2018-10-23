@@ -5,11 +5,11 @@ public class Laundry {
         //Код, который может выбрасить оба исключения
     }
 
-    public void doShirtLaundry() throws TeeShirtException {
+    public void doShirtLaundry() throws TeeShirtException, DressShirtException {
         //Код, который может выбрасить оба исключения
     }
 
-    public void doBigLaundry() {
+    public void doBigLaundry() throws ClothingException, ShirtException {
         //Код, который может выбрасить оба исключения
     }
 }

@@ -3,7 +3,7 @@ package Ch11.Examples.Poly;
 public class Washer {
     Laundry laundry = new Laundry();
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ClothingException {
         //Оба метода пробрасывают исключение, но код все равно скомпилируется
         Washer a = new Washer();
         a.foo();
@@ -20,7 +20,7 @@ public class Washer {
 
     // ОБЪЯВЛЕНИЕ (переброс)
     //Откладываем неизбежное.
-    public void foo() {
+    public void foo() throws ClothingException {
         laundry.doBigLaundry();
     }
 }
