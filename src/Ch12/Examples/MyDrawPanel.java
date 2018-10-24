@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class MyDrawPanel extends JPanel {
-    public void paintComponent(Graphics g){
+    public void paintComponent(Graphics g) {
 //        g.setColor(Color.ORANGE);
 //        g.fillRect(0, 0, 100, 100);
 //        g.setColor(Color.GREEN);
