@@ -31,9 +31,8 @@ public class JListTest implements ListSelectionListener {
 
         frame.getContentPane().add(scroller);
 
-        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-
         frame.setSize(50, 100);
+        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
     }
 
