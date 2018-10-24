@@ -18,7 +18,11 @@ public class SimpleGui1 implements MouseListener/*, ActionListener*/ {
         button.addMouseListener(this);
 //        button.addActionListener(this);
 
-        frame.getContentPane().add(button);
+
+        MyDrawPanel myDrawPanel = new MyDrawPanel();
+
+//        frame.getContentPane().add(button);
+        frame.getContentPane().add(myDrawPanel);
 
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(300, 300);

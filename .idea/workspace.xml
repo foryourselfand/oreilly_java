@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa4910e7-a96b-4f37-9d72-e34b6ae17bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ch12/Examples/SimpleGui1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch12/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch12/Examples/MyDrawPanel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch12/Examples/SimpleGui1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch12/Examples/SimpleGui1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,41 +17,43 @@
     <session id="94123748">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="6" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="17" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="31" />
-          <entry key="java" value="29698" />
-          <entry key="txt" value="995" />
+          <entry key="java" value="30271" />
+          <entry key="txt" value="1021" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="29698" />
-          <entry key="PLAIN_TEXT" value="1026" />
+          <entry key="JAVA" value="30271" />
+          <entry key="PLAIN_TEXT" value="1052" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="2" />
-          <entry key="java" value="352" />
+          <entry key="java" value="353" />
+          <entry key="jpg" value="4" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="2" />
-          <entry key="JAVA" value="352" />
+          <entry key="Image" value="4" />
+          <entry key="JAVA" value="353" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -65,7 +67,7 @@
     <favorites_list name="oreilly_java" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ch12/test.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -75,23 +77,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/SimpleGui1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="299">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#696#697#0" expanded="true" />
-                <element signature="e#742#743#0" expanded="true" />
-                <element signature="e#802#803#0" expanded="true" />
-                <element signature="e#848#849#0" expanded="true" />
-                <element signature="e#909#910#0" expanded="true" />
+                <element signature="e#910#911#0" expanded="true" />
                 <element signature="e#956#957#0" expanded="true" />
-                <element signature="e#1016#1017#0" expanded="true" />
-                <element signature="e#1062#1063#0" expanded="true" />
-                <element signature="e#1121#1122#0" expanded="true" />
-                <element signature="e#1166#1167#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/MyDrawPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -127,7 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch10/Examples/StaticCount/PlayerTestDrive.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Examples/FinaleLaComedia/Foof.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Examples/FinaleLaComedia/MyMostPerfectClass.java" />
         <option value="$PROJECT_DIR$/src/Ch10/Compile.java" />
@@ -178,6 +183,7 @@
         <option value="$PROJECT_DIR$/src/Ch11/Magnets/ExTestDrive.java" />
         <option value="$PROJECT_DIR$/src/Ch12/test.java" />
         <option value="$PROJECT_DIR$/src/Ch12/Examples/SimpleGui1.java" />
+        <option value="$PROJECT_DIR$/src/Ch12/Examples/MyDrawPanel.java" />
       </list>
     </option>
   </component>
@@ -200,6 +206,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,15 +237,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/foryourselfand/Desktop/Java/oreilly_java/src/Ch9/Detective/SimUnit.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540376716606" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540378739115" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -377,7 +383,8 @@
       <workItem from="1540200061953" duration="13821000" />
       <workItem from="1540281739954" duration="4165000" />
       <workItem from="1540285950381" duration="2627000" />
-      <workItem from="1540374760486" duration="2117000" />
+      <workItem from="1540374760486" duration="2695000" />
+      <workItem from="1540377617472" duration="982000" />
     </task>
     <task id="LOCAL-00001" summary="new project">
       <created>1539806986966</created>
@@ -659,11 +666,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540287826353</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="cool stuff with listeners">
+      <created>1540377056543</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1540377056543</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69671000" />
+    <option name="totallyTimeSpent" value="71231000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -678,7 +692,7 @@
     <frame x="0" y="23" width="1409" height="1329" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49698433" visible="true" weight="0.22750549" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49698433" visible="true" weight="0.2304316" />
       <window_info id="Structure" order="1" sideWeight="0.5030157" side_tool="true" weight="0.25896123" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -746,7 +760,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Some code that ARE NOT IN THE BOOK" />
     <MESSAGE value="Now better" />
     <MESSAGE value="some stuff" />
     <MESSAGE value="Game" />
@@ -771,30 +784,10 @@
     <MESSAGE value="Magnets in CH 12 and all Ch - Done" />
     <MESSAGE value="oops that was ch 11 not 12" />
     <MESSAGE value="smth with exceptions and refactoring" />
-    <option name="LAST_COMMIT_MESSAGE" value="smth with exceptions and refactoring" />
+    <MESSAGE value="cool stuff with listeners" />
+    <option name="LAST_COMMIT_MESSAGE" value="cool stuff with listeners" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch10/Examples/FinaleLaComedia/Foo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch10/Examples/StaticCount/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch10/Examples/StaticCount/PlayerTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch10/Examples/FinaleLaComedia/Foof.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -1081,13 +1074,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch12/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.1.jdk/Contents/Home/lib/src.zip!/java.desktop/java/awt/event/ActionListener.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="648">
@@ -1106,22 +1092,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/cat.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/cat2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/SimpleGui1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="299">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-            <element signature="e#742#743#0" expanded="true" />
-            <element signature="e#802#803#0" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
             <element signature="e#956#957#0" expanded="true" />
-            <element signature="e#1016#1017#0" expanded="true" />
-            <element signature="e#1062#1063#0" expanded="true" />
-            <element signature="e#1121#1122#0" expanded="true" />
-            <element signature="e#1166#1167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/MyDrawPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="20" column="48" lean-forward="true" selection-start-line="20" selection-start-column="48" selection-end-line="20" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
