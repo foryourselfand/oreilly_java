@@ -1,4 +1,4 @@
-package Ch12.Examples.MusicPlayer;
+package Ch12.Examples.Kitchen;
 
 import javax.sound.midi.ControllerEventListener;
 import javax.sound.midi.ShortMessage;

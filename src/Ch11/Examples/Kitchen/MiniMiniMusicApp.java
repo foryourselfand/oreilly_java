@@ -1,4 +1,4 @@
-package Ch11.Examples.Music;
+package Ch11.Examples.Kitchen;
 
 import javax.sound.midi.*;
 

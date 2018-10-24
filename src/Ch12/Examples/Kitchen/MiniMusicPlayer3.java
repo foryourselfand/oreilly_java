@@ -1,4 +1,4 @@
-package Ch12.Examples.MusicPlayer;
+package Ch12.Examples.Kitchen;
 
 
 import javax.sound.midi.MidiSystem;
@@ -7,7 +7,7 @@ import javax.sound.midi.Sequencer;
 import javax.sound.midi.Track;
 import javax.swing.*;
 
-import static Ch12.Examples.MusicPlayer.MiniMusicPlayer1.makeEvent;
+import static Ch12.Examples.Kitchen.MiniMusicPlayer1.makeEvent;
 
 public class MiniMusicPlayer3 {
     static JFrame frame = new JFrame();
