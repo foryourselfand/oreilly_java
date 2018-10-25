@@ -1,9 +1,7 @@
-package Ch14.Examples.Game;
+package Ch14.Examples.Objects.SimpleGame;
 
 import java.io.FileInputStream;
-import java.io.FileOutputStream;
 import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
 
 public class GameSaverTest {
     public static void main(String[] args) {

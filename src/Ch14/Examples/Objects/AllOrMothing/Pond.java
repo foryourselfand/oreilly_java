@@ -1,4 +1,4 @@
-package Ch14.Examples.AllOrMothing;
+package Ch14.Examples.Objects.AllOrMothing;
 
 import java.io.FileOutputStream;
 import java.io.ObjectOutputStream;

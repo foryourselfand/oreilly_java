@@ -1,4 +1,4 @@
-package Ch14.Examples.Game;
+package Ch14.Examples.Objects.SimpleGame;
 
 import java.io.Serializable;
 
