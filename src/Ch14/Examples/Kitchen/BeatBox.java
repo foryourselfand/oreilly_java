@@ -201,9 +201,11 @@ public class BeatBox {
                     checkboxState[i] = true;
             }
 
+            JFileChooser fileSave = new JFileChooser();
+            fileSave.showSaveDialog(theFrame);
+
             try {
-                FileOutputStream fileOutputStream = new FileOutputStream(
-                        new File("res/Checkbox.ser"));
+                FileOutputStream fileOutputStream = new FileOutputStream(fileSave.getSelectedFile());
                 ObjectOutputStream os = new ObjectOutputStream(fileOutputStream);
                 os.writeObject(checkboxState);
 
@@ -216,10 +218,12 @@ public class BeatBox {
     public class MyReadInListener implements ActionListener {
         @Override
         public void actionPerformed(ActionEvent e) {
+            JFileChooser fileOpen = new JFileChooser();
+            fileOpen.showOpenDialog(theFrame);
+
             boolean[] checkboxState = null;
             try {
-                FileInputStream fileInputStream = new FileInputStream(
-                        new File("res/Checkbox.ser"));
+                FileInputStream fileInputStream = new FileInputStream(fileOpen.getSelectedFile());
                 ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
                 checkboxState = (boolean[]) objectInputStream.readObject();
 
