@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa4910e7-a96b-4f37-9d72-e34b6ae17bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ch14/Examples/Files/FilesTesting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch14/Examples/Files/Game/QuizCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch14/Examples/Files/Game/QuizCardBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ch14/Examples/Files/WriteAFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch14/Examples/Files/Game/QuizCardPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch14/Examples/Files/ReadAFile.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch14/Examples/AllOrMothing/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch14/Examples/Objects/AllOrMothing/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch14/Examples/AllOrMothing/Pond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch14/Examples/Objects/AllOrMothing/Pond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch14/Examples/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch14/Examples/Objects/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch14/Examples/Game/GameCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch14/Examples/Objects/SimpleGame/GameCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch14/Examples/Game/GameSaverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch14/Examples/Objects/SimpleGame/GameSaverTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,20 +31,20 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="47" />
-          <entry key="java" value="40733" />
-          <entry key="txt" value="1307" />
+          <entry key="java" value="42758" />
+          <entry key="txt" value="1323" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="40733" />
-          <entry key="PLAIN_TEXT" value="1354" />
+          <entry key="JAVA" value="42758" />
+          <entry key="PLAIN_TEXT" value="1370" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="3" />
-          <entry key="java" value="446" />
+          <entry key="java" value="449" />
           <entry key="jpg" value="5" />
           <entry key="txt" value="3" />
           <entry key="xml" value="1" />
@@ -61,7 +54,7 @@
         <counts>
           <entry key="IDEA_MODULE" value="3" />
           <entry key="Image" value="5" />
-          <entry key="JAVA" value="446" />
+          <entry key="JAVA" value="449" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="XML" value="1" />
         </counts>
@@ -103,8 +96,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ch14/Examples/Files/Game/QuizCardBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="112" column="6" lean-forward="true" selection-start-line="112" selection-start-column="6" selection-end-line="112" selection-end-column="6" />
+            <state relative-caret-position="335">
+              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="76" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#317#318#0" expanded="true" />
@@ -115,10 +108,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch14/Examples/Files/FilesTesting.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch14/Examples/Files/Game/QuizCardPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+            <state relative-caret-position="203">
+              <caret line="124" column="17" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#108#109#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch14/Examples/Files/ReadAFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -153,8 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch12/Examples/Poli/ClothingExceprion.java" />
-        <option value="$PROJECT_DIR$/src/Ch12/Examples/Poli/ClothingException.java" />
         <option value="$PROJECT_DIR$/src/Ch12/Examples/Poli/Foo.java" />
         <option value="$PROJECT_DIR$/src/Ch12/Examples/Poli/Washer.java" />
         <option value="$PROJECT_DIR$/src/Ch12/Examples/Poly/Washer.java" />
@@ -204,6 +212,8 @@
         <option value="$PROJECT_DIR$/src/Ch14/Examples/Files/Game/QuizCardBuiler.java" />
         <option value="$PROJECT_DIR$/src/Ch14/Examples/Files/Game/QuizCardBuilder.java" />
         <option value="$PROJECT_DIR$/src/Ch14/Examples/Files/FilesTesting.java" />
+        <option value="$PROJECT_DIR$/src/Ch14/Examples/Files/ReadAFile.java" />
+        <option value="$PROJECT_DIR$/src/Ch14/Examples/Files/Game/QuizCardPlayer.java" />
       </list>
     </option>
   </component>
@@ -291,7 +301,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/foryourselfand/Desktop/Java/oreilly_java/src/Ch9/Detective/SimUnit.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540465743456" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540467614408" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -320,20 +330,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuizCardBuilder">
-    <configuration name="Box" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch14.Examples.Objects.Box" />
-      <module name="oreilly_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ch14.Examples.Objects.AllOrMothing.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.QuizCardPlayer">
     <configuration name="GameSaverTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch14.Examples.Objects.SimpleGame.GameSaverTest" />
       <module name="oreilly_java" />
@@ -347,12 +344,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pond" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch14.Examples.Objects.AllOrMothing.Pond" />
+    <configuration name="QuizCardBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch14.Examples.Files.Game.QuizCardBuilder" />
       <module name="oreilly_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ch14.Examples.Objects.AllOrMothing.*" />
+          <option name="PATTERN" value="Ch14.Examples.Files.Game.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,12 +357,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuizCardBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch14.Examples.Files.Game.QuizCardBuilder" />
+    <configuration name="QuizCardPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch14.Examples.Files.Game.QuizCardPlayer" />
       <module name="oreilly_java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ch14.Examples.Files.Game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadAFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch14.Examples.Files.ReadAFile" />
+      <module name="oreilly_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch14.Examples.Files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,19 +397,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Box" />
-      <item itemvalue="Application.Pond" />
       <item itemvalue="Application.GameSaverTest" />
       <item itemvalue="Application.WriteAFile" />
       <item itemvalue="Application.QuizCardBuilder" />
+      <item itemvalue="Application.ReadAFile" />
+      <item itemvalue="Application.QuizCardPlayer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuizCardPlayer" />
+        <item itemvalue="Application.ReadAFile" />
         <item itemvalue="Application.QuizCardBuilder" />
         <item itemvalue="Application.WriteAFile" />
         <item itemvalue="Application.GameSaverTest" />
-        <item itemvalue="Application.Pond" />
-        <item itemvalue="Application.Box" />
       </list>
     </recent_temporary>
   </component>
@@ -433,14 +443,7 @@
       <workItem from="1540377617472" duration="7589000" />
       <workItem from="1540387098730" duration="401000" />
       <workItem from="1540400522726" duration="11316000" />
-      <workItem from="1540462161731" duration="3838000" />
-    </task>
-    <task id="LOCAL-00002" summary="first class">
-      <created>1539807389256</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1539807389257</updated>
+      <workItem from="1540462161731" duration="5416000" />
     </task>
     <task id="LOCAL-00003" summary="Operations class">
       <created>1539808659718</created>
@@ -778,7 +781,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540463965653</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="half of the game">
+      <created>1540466059488</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1540466059488</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -793,7 +803,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93393000" />
+    <option name="totallyTimeSpent" value="94971000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -808,7 +818,7 @@
     <frame x="0" y="23" width="1409" height="1329" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49698433" visible="true" weight="0.23920995" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49698433" visible="true" weight="0.1923921" />
       <window_info id="Structure" order="1" sideWeight="0.5030157" side_tool="true" weight="0.25896123" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -818,7 +828,7 @@
       <window_info id="Favorites" order="7" sideWeight="0.5030157" side_tool="true" weight="0.25896123" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32983023" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962714" visible="true" weight="0.3484236" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49962714" visible="true" weight="0.3484236" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935327" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -876,7 +886,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="some stuff in ch 9" />
     <MESSAGE value="CH 9 DONE" />
     <MESSAGE value="some examples from ch 10" />
     <MESSAGE value="working as compile" />
@@ -901,19 +910,10 @@
     <MESSAGE value="Very cool music player!!!" />
     <MESSAGE value="Mixed and FUF Ch 13 - SLEEP" />
     <MESSAGE value="Objects serialize in ch 14" />
-    <option name="LAST_COMMIT_MESSAGE" value="Objects serialize in ch 14" />
+    <MESSAGE value="half of the game" />
+    <option name="LAST_COMMIT_MESSAGE" value="half of the game" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Kitchen/MyDrawPanel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="24" column="60" lean-forward="true" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/oreilly_java.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch11/Examples/ExceptionsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
@@ -1254,10 +1254,17 @@
     <entry file="file://$PROJECT_DIR$/res/Game/anotherGameData.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch14/Examples/Files/FilesTesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" column="50" lean-forward="true" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch14/Examples/Files/Game/QuizCardBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="112" column="6" lean-forward="true" selection-start-line="112" selection-start-column="6" selection-end-line="112" selection-end-column="6" />
+        <state relative-caret-position="335">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="76" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#317#318#0" expanded="true" />
@@ -1266,10 +1273,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch14/Examples/Files/FilesTesting.java">
+    <entry file="file://$PROJECT_DIR$/src/Ch14/Examples/Files/ReadAFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+        <state relative-caret-position="384">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch14/Examples/Files/Game/QuizCardPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="124" column="17" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
