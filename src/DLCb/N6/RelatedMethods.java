@@ -1,4 +1,4 @@
-package DlcB.N6;
+package DLCb.N6;
 
 public class RelatedMethods {
     public static void main(String[] args) {

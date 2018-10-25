@@ -1,4 +1,4 @@
-package DlcB.N7;
+package DLCb.N7;
 
 public class VisibleBlocks {
     void doStuff(){

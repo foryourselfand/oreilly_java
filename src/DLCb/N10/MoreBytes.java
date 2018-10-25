@@ -1,4 +1,4 @@
-package DlcB.N10;
+package DLCb.N10;
 
 public class MoreBytes {
     public static void main(String[] args) {

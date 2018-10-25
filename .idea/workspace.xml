@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa4910e7-a96b-4f37-9d72-e34b6ae17bb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DLCb/N1/HfjEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DLCb/N1/Members.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DLCb/N1/NewExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DLCb/N1/OldExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DLCb/N2/Array2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DLCb/N3/StringBxxxx.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch14/Examples/Kitchen/BeatBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch14/Examples/Kitchen/BeatBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DlcB/N10/Bytes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N10/Bytes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DlcB/N10/MoreBytes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N10/MoreBytes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DlcB/N5/FooOuter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N5/FooOuter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DlcB/N5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N5/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DlcB/N5/TestAnon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N5/TestAnon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DlcB/N6/RelatedMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N6/RelatedMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DlcB/N7/VisibleBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N7/VisibleBlocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DlcB/N8/ControlOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N8/ControlOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DlcB/N9/StringsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N9/StringsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,21 +44,21 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="47" />
-          <entry key="java" value="45623" />
-          <entry key="txt" value="1468" />
+          <entry key="dummy" value="64" />
+          <entry key="java" value="48128" />
+          <entry key="txt" value="1495" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="45623" />
-          <entry key="PLAIN_TEXT" value="1515" />
+          <entry key="JAVA" value="48128" />
+          <entry key="PLAIN_TEXT" value="1559" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="3" />
-          <entry key="java" value="481" />
+          <entry key="java" value="490" />
           <entry key="jpg" value="5" />
           <entry key="txt" value="3" />
           <entry key="xml" value="1" />
@@ -54,7 +68,7 @@
         <counts>
           <entry key="IDEA_MODULE" value="3" />
           <entry key="Image" value="5" />
-          <entry key="JAVA" value="481" />
+          <entry key="JAVA" value="490" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="XML" value="1" />
         </counts>
@@ -70,23 +84,76 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch14/Examples/Kitchen/BeatBox.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DLCb/N3/StringBxxxx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="974">
-              <caret line="244" column="5" selection-start-line="244" selection-start-column="5" selection-end-line="244" selection-end-column="5" />
+            <state relative-caret-position="110">
+              <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ch14/Examples/Files/Game/QuizCardPlayer.java">
+        <entry file="file://$PROJECT_DIR$/src/DLCb/N2/Array2D.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="979">
-              <caret line="134" selection-start-line="134" selection-end-line="136" selection-end-column="49" />
+            <state relative-caret-position="336">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DLCb/N1/OldExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#284#285#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DLCb/N1/NewExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+              <folding>
+                <element signature="e#87#88#0" expanded="true" />
+                <element signature="e#124#125#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DLCb/N1/HfjEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-178">
+              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+              <folding>
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#248#249#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#458#459#0" expanded="true" />
+                <element signature="e#499#500#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DLCb/N1/Members.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -97,6 +164,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -122,17 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch12/Examples/MusicPlayer/MiniMusicPlayer3.java" />
-        <option value="$PROJECT_DIR$/src/Ch12/Examples/MusicPlayer/MyDrawPanel.java" />
-        <option value="$PROJECT_DIR$/src/Ch12/Compile/InnerButton.java" />
-        <option value="$PROJECT_DIR$/src/Ch12/Pool/Animate.java" />
-        <option value="$PROJECT_DIR$/src/Ch12/Examples/SimpleAnimation.java" />
-        <option value="$PROJECT_DIR$/src/Ch13/test.java" />
-        <option value="$PROJECT_DIR$/src/Ch13/Examples/Panel1.java" />
-        <option value="$PROJECT_DIR$/src/Ch13/Examples/Panels.java" />
-        <option value="$PROJECT_DIR$/src/Ch13/Examples/SwingTest.java" />
-        <option value="$PROJECT_DIR$/src/Ch13/Examples/PlayingComponents/TextArea1.java" />
-        <option value="$PROJECT_DIR$/src/Ch13/Examples/PlayingComponents/CheckBoxTest.java" />
         <option value="$PROJECT_DIR$/src/Ch13/Examples/PlayingComponents/TextAreaTest.java" />
         <option value="$PROJECT_DIR$/src/Ch13/Examples/PlayingComponents/TextArea2Test.java" />
         <option value="$PROJECT_DIR$/src/Ch13/Examples/PlayingComponents/TextFieldTest.java" />
@@ -173,6 +230,17 @@
         <option value="$PROJECT_DIR$/src/AppB/N5/TestAnon.java" />
         <option value="$PROJECT_DIR$/src/DlcB/N5/TestAnon.java" />
         <option value="$PROJECT_DIR$/src/Ch14/Examples/Kitchen/BeatBox.java" />
+        <option value="$PROJECT_DIR$/src/DLCb/N3/StringBxxxx.java" />
+        <option value="$PROJECT_DIR$/src/DLCb/N2.java" />
+        <option value="$PROJECT_DIR$/src/DLCb/Array2D.java" />
+        <option value="$PROJECT_DIR$/src/DLCb/N2/Array2D.java" />
+        <option value="$PROJECT_DIR$/src/DLCb/N1/Old.java" />
+        <option value="$PROJECT_DIR$/src/DLCb/N1/Members.java" />
+        <option value="$PROJECT_DIR$/src/DLCb/N1/New.java" />
+        <option value="$PROJECT_DIR$/src/DLCb/N1/OldExample.java" />
+        <option value="$PROJECT_DIR$/src/DLCb/N1/NewExample.java" />
+        <option value="$PROJECT_DIR$/src/DLCb/N1/Names.java" />
+        <option value="$PROJECT_DIR$/src/DLCb/N1/HfjEnum.java" />
       </list>
     </option>
   </component>
@@ -182,9 +250,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1409" />
+    <option name="width" value="1397" />
     <option name="height" value="1329" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -206,56 +274,20 @@
             <path>
               <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="Game" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch14" type="462c0819:PsiDirectoryNode" />
+              <item name="DLCb" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch14" type="462c0819:PsiDirectoryNode" />
-              <item name="Examples" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch14" type="462c0819:PsiDirectoryNode" />
-              <item name="Examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Files" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch14" type="462c0819:PsiDirectoryNode" />
-              <item name="Examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Files" type="462c0819:PsiDirectoryNode" />
-              <item name="Game" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Ch14" type="462c0819:PsiDirectoryNode" />
-              <item name="Examples" type="462c0819:PsiDirectoryNode" />
-              <item name="Kitchen" type="462c0819:PsiDirectoryNode" />
+              <item name="DLCb" type="462c0819:PsiDirectoryNode" />
+              <item name="N1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -268,7 +300,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/foryourselfand/Desktop/Java/oreilly_java/src/Ch9/Detective/SimUnit.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540483907967" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540485824736" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -301,7 +333,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BeatBox">
+  <component name="RunManager" selected="Application.HfjEnum">
     <configuration name="BeatBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch14.Examples.Kitchen.BeatBox" />
       <module name="oreilly_java" />
@@ -315,25 +347,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bytes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DlcB.N10.Bytes" />
-      <module name="oreilly_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DlcB.N10.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ControlOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DlcB.N8.ControlOperators" />
+      <option name="MAIN_CLASS_NAME" value="DLCb.N8.ControlOperators" />
       <module name="oreilly_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DlcB.N8.*" />
+          <option name="PATTERN" value="DLCb.N8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,12 +360,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoreBytes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DlcB.N10.MoreBytes" />
+    <configuration name="HfjEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DLCb.N1.HfjEnum" />
       <module name="oreilly_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DlcB.N10.*" />
+          <option name="PATTERN" value="DLCb.N1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DLCb.N1.NewExample" />
+      <module name="oreilly_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DLCb.N1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -355,11 +387,11 @@
       </method>
     </configuration>
     <configuration name="TestAnon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DlcB.N5.TestAnon" />
+      <option name="MAIN_CLASS_NAME" value="DLCb.N5.TestAnon" />
       <module name="oreilly_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DlcB.N5.*" />
+          <option name="PATTERN" value="DLCb.N5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -368,19 +400,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MoreBytes" />
-      <item itemvalue="Application.Bytes" />
       <item itemvalue="Application.ControlOperators" />
       <item itemvalue="Application.TestAnon" />
       <item itemvalue="Application.BeatBox" />
+      <item itemvalue="Application.NewExample" />
+      <item itemvalue="Application.HfjEnum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HfjEnum" />
+        <item itemvalue="Application.NewExample" />
         <item itemvalue="Application.BeatBox" />
         <item itemvalue="Application.TestAnon" />
         <item itemvalue="Application.ControlOperators" />
-        <item itemvalue="Application.Bytes" />
-        <item itemvalue="Application.MoreBytes" />
       </list>
     </recent_temporary>
   </component>
@@ -416,14 +448,7 @@
       <workItem from="1540400522726" duration="11316000" />
       <workItem from="1540462161731" duration="9438000" />
       <workItem from="1540474983465" duration="729000" />
-      <workItem from="1540483042722" duration="769000" />
-    </task>
-    <task id="LOCAL-00008" summary="Charapter 3 DONE">
-      <created>1539814395791</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1539814395791</updated>
+      <workItem from="1540483042722" duration="2682000" />
     </task>
     <task id="LOCAL-00009" summary="before smth shit with area">
       <created>1539816321562</created>
@@ -761,7 +786,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540475747149</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary=" Ability to save and load multiple files">
+      <created>1540483971212</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1540483971213</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -776,7 +808,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100491000" />
+    <option name="totallyTimeSpent" value="102404000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -788,10 +820,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2560" height="1329" extended-state="6" />
+    <frame x="0" y="23" width="1397" height="1329" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49627793" visible="true" weight="0.15687053" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49627793" visible="true" weight="0.2915129" />
       <window_info id="Structure" order="1" sideWeight="0.504222" side_tool="true" weight="0.13606438" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -801,7 +833,7 @@
       <window_info id="Favorites" order="7" sideWeight="0.5037221" side_tool="true" weight="0.13606438" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32983023" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49962714" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962714" visible="true" weight="0.32983023" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935327" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -892,7 +924,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="ch 11 done" />
     <MESSAGE value="Little exceprions in ch12" />
     <MESSAGE value="Little exceptions in ch12" />
     <MESSAGE value="Pencil" />
@@ -917,65 +948,10 @@
     <MESSAGE value="Compile + Pool + all other = Ch 14 DONE" />
     <MESSAGE value="some serializable stuff" />
     <MESSAGE value="half of DlcB" />
-    <option name="LAST_COMMIT_MESSAGE" value="half of DlcB" />
+    <MESSAGE value=" Ability to save and load multiple files" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Ability to save and load multiple files" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch5/Examples/SimpleGame/SimpleGameNewVersion.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch5/Examples/SimpleGame/SimpleDotComTestDrive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch13/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch13/Examples/PlayingComponents/TextArea1Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="28" column="32" lean-forward="true" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch13/Examples/PlayingComponents/TextFieldTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="40" column="39" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch13/Examples/Button1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch13/Examples/Panels.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch13/Examples/SwingTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch11/Examples/Kitchen/MiniMusicCmdLine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -1143,35 +1119,35 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AppB/test.java" />
-    <entry file="file://$PROJECT_DIR$/src/DlcB/N10/Bytes.java">
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N10/Bytes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DlcB/N10/MoreBytes.java">
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N10/MoreBytes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DlcB/N9/StringsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N9/StringsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DlcB/N8/ControlOperators.java">
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N8/ControlOperators.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DlcB/N7/VisibleBlocks.java">
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N7/VisibleBlocks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
@@ -1185,7 +1161,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DlcB/N5/TestAnon.java">
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N5/TestAnon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
@@ -1195,7 +1171,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DlcB/N6/RelatedMethods.java">
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N6/RelatedMethods.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
@@ -1206,7 +1182,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DlcB/N5/FooOuter.java">
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N5/FooOuter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
@@ -1217,7 +1193,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DlcB/N5/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N5/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
@@ -1244,6 +1220,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch14/Examples/Kitchen/BeatBox.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4011">
+          <caret line="221" column="46" lean-forward="true" selection-start-line="221" selection-start-column="46" selection-end-line="221" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch14/Examples/Files/Game/QuizCardPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="979">
@@ -1254,10 +1237,79 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch14/Examples/Kitchen/BeatBox.java">
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N3/StringBxxxx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="974">
-          <caret line="244" column="5" selection-start-line="244" selection-start-column="5" selection-end-line="244" selection-end-column="5" />
+        <state relative-caret-position="110">
+          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N2/Array2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N1/Members.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N1/New.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N1/OldExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#284#285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N1/Names.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N1/NewExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+          <folding>
+            <element signature="e#87#88#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N1/HfjEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-178">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#458#459#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

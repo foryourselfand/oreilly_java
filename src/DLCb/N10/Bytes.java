@@ -1,4 +1,4 @@
-package DlcB.N10;
+package DLCb.N10;
 
 public class Bytes {
     public static void main(String[] args) {

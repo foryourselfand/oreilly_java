@@ -1,8 +1,6 @@
-package DlcB.N5;
+package DLCb.N5;
 
 import javax.swing.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 public class TestAnon {
     public static void main(String[] args) {

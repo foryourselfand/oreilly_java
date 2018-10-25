@@ -1,4 +1,4 @@
-package DlcB.N9;
+package DLCb.N9;
 
 public class StringsTest {
     public static void main(String[] args) {

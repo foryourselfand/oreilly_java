@@ -1,4 +1,4 @@
-package DlcB.N5;
+package DLCb.N5;
 
 public class FooOuter {
     static class BarInner {
