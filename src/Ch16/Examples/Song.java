@@ -42,29 +42,29 @@ public class Song implements Comparable<Song>{
         return title.compareTo(o.getTitle());
     }
 
-    @Override
-    public boolean equals(Object aSong) {
-        Song s = (Song) aSong;
-        return getTitle().equals(s.getTitle());
-    }
-
-    @Override
-    public int hashCode() {
-        return title.hashCode();
-    }
-
-
-    //Generate
 //    @Override
-//    public boolean equals(Object o) {
-//        if (this == o) return true;
-//        if (!(o instanceof Song)) return false;
-//        Song song = (Song) o;
-//        return Objects.equals(getTitle(), song.getTitle());
+//    public boolean equals(Object aSong) {
+//        Song s = (Song) aSong;
+//        return getTitle().equals(s.getTitle());
 //    }
 //
 //    @Override
 //    public int hashCode() {
-//        return Objects.hash(getTitle());
+//        return title.hashCode();
 //    }
+
+
+    //Generate
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Song)) return false;
+        Song song = (Song) o;
+        return Objects.equals(getTitle(), song.getTitle());
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(getTitle());
+    }
 }

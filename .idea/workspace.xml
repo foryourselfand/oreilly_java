@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa4910e7-a96b-4f37-9d72-e34b6ae17bb3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Ch16/Examples/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch16/Examples/TreeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/SongList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/res/SongList.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ch16/Examples/Jukebox3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch16/Examples/Jukebox3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ch16/Examples/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch16/Examples/Song.java" afterDir="false" />
     </list>
@@ -33,20 +34,20 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="64" />
-          <entry key="java" value="49426" />
-          <entry key="txt" value="1701" />
+          <entry key="java" value="49810" />
+          <entry key="txt" value="1714" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="49426" />
-          <entry key="PLAIN_TEXT" value="1765" />
+          <entry key="JAVA" value="49810" />
+          <entry key="PLAIN_TEXT" value="1778" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="3" />
-          <entry key="java" value="502" />
+          <entry key="java" value="504" />
           <entry key="jpg" value="5" />
           <entry key="txt" value="5" />
           <entry key="xml" value="1" />
@@ -56,7 +57,7 @@
         <counts>
           <entry key="IDEA_MODULE" value="3" />
           <entry key="Image" value="5" />
-          <entry key="JAVA" value="502" />
+          <entry key="JAVA" value="504" />
           <entry key="PLAIN_TEXT" value="5" />
           <entry key="XML" value="1" />
         </counts>
@@ -75,24 +76,59 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/Song.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="62">
-              <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="53" selection-end-column="5" />
+            <state relative-caret-position="376">
+              <caret line="57" column="3" selection-start-line="57" selection-start-column="3" selection-end-line="68" selection-end-column="5" />
               <folding>
-                <element signature="e#1002#1003#0" expanded="true" />
-                <element signature="e#1041#1042#0" expanded="true" />
+                <element signature="e#1353#1354#0" expanded="true" />
+                <element signature="e#1400#1401#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/Jukebox3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#778#784#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/Jukebox3.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/TreeTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+            <state relative-caret-position="560">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#731#737#0" expanded="true" />
+                <element signature="e#91#92#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="e#401#407#0" expanded="true" />
+                <element signature="e#560#566#0" expanded="true" />
+                <element signature="e#663#664#0" expanded="true" />
+                <element signature="e#695#696#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#93#94#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#204#205#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -130,10 +166,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch13/Examples/PlayingComponents/JListTest.java" />
-        <option value="$PROJECT_DIR$/src/Ch13/Examples/Mixed/FindSwing.java" />
-        <option value="$PROJECT_DIR$/src/Ch14/test.java" />
-        <option value="$PROJECT_DIR$/src/Ch14/Examples/Duck.java" />
         <option value="$PROJECT_DIR$/src/Ch14/Examples/Box.java" />
         <option value="$PROJECT_DIR$/src/Ch14/Examples/Pond.java" />
         <option value="$PROJECT_DIR$/src/Ch14/Examples/GameSaverTest.java" />
@@ -181,6 +213,10 @@
         <option value="$PROJECT_DIR$/res/SongList.txt" />
         <option value="$PROJECT_DIR$/src/Ch16/Examples/Jukebox3.java" />
         <option value="$PROJECT_DIR$/src/Ch16/Examples/Song.java" />
+        <option value="$PROJECT_DIR$/src/Ch16/Examples/TestTree.java" />
+        <option value="$PROJECT_DIR$/src/Ch16/Examples/Tree.java" />
+        <option value="$PROJECT_DIR$/src/Ch16/Examples/Book.java" />
+        <option value="$PROJECT_DIR$/src/Ch16/Examples/TreeTest.java" />
       </list>
     </option>
   </component>
@@ -233,14 +269,24 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Default Changelist'; set:Default Changelist; class com.intellij.packageDependencies.ChangeListScope">
+          <expand>
+            <path>
+              <item name="oreilly_java" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="oreilly_java" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/foryourselfand/Desktop/Java/oreilly_java/src/Ch9/Detective/SimUnit.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540551767505" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540552382692" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -273,7 +319,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Jukebox3">
+  <component name="RunManager" selected="Application.TreeTest">
     <configuration name="HfjEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DLCb.N1.HfjEnum" />
       <module name="oreilly_java" />
@@ -313,19 +359,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DLCb.N1.NewExample" />
-      <module name="oreilly_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DLCb.N1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SortMountains" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch16.Pool.SortMountains" />
       <module name="oreilly_java" />
@@ -339,20 +372,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TreeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch16.Examples.TreeTest" />
+      <module name="oreilly_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch16.Examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.NewExample" />
       <item itemvalue="Application.HfjEnum" />
       <item itemvalue="Application.Jukebox1" />
       <item itemvalue="Application.Jukebox3" />
       <item itemvalue="Application.SortMountains" />
+      <item itemvalue="Application.TreeTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TreeTest" />
         <item itemvalue="Application.Jukebox3" />
         <item itemvalue="Application.SortMountains" />
         <item itemvalue="Application.Jukebox1" />
         <item itemvalue="Application.HfjEnum" />
-        <item itemvalue="Application.NewExample" />
       </list>
     </recent_temporary>
   </component>
@@ -389,14 +435,7 @@
       <workItem from="1540462161731" duration="9438000" />
       <workItem from="1540474983465" duration="729000" />
       <workItem from="1540483042722" duration="2715000" />
-      <workItem from="1540547769520" duration="3989000" />
-    </task>
-    <task id="LOCAL-00015" summary="Ch 5 done">
-      <created>1539935080708</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1539935080708</updated>
+      <workItem from="1540547769520" duration="4534000" />
     </task>
     <task id="LOCAL-00016" summary="Some code that ARE NOT IN THE BOOK">
       <created>1539936487723</created>
@@ -734,7 +773,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540551115013</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Hash working">
+      <created>1540551845772</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1540551845772</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -749,7 +795,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106426000" />
+    <option name="totallyTimeSpent" value="106971000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -865,7 +911,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="oops that was ch 11 not 12" />
     <MESSAGE value="smth with exceptions and refactoring" />
     <MESSAGE value="cool stuff with listeners" />
     <MESSAGE value="graphics" />
@@ -890,23 +935,10 @@
     <MESSAGE value="Working version" />
     <MESSAGE value="Comparing for another thing" />
     <MESSAGE value="Backward coding in case" />
-    <option name="LAST_COMMIT_MESSAGE" value="Backward coding in case" />
+    <MESSAGE value="Hash working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hash working" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch13/Examples/PlayingComponents/JListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="710">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch14/Examples/Objects/AllOrMothing/Duck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch14/Examples/Objects/AllOrMothing/Pond.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -1217,22 +1249,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/Song.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="62">
-          <caret line="44" column="6" lean-forward="true" selection-start-line="44" selection-start-column="6" selection-end-line="53" selection-end-column="5" />
+        <state relative-caret-position="376">
+          <caret line="57" column="3" selection-start-line="57" selection-start-column="3" selection-end-line="68" selection-end-column="5" />
           <folding>
-            <element signature="e#1002#1003#0" expanded="true" />
-            <element signature="e#1041#1042#0" expanded="true" />
+            <element signature="e#1353#1354#0" expanded="true" />
+            <element signature="e#1400#1401#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/Jukebox3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+        <state relative-caret-position="283">
+          <caret line="25" column="44" lean-forward="true" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#731#737#0" expanded="true" />
+            <element signature="e#778#784#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#93#94#0" expanded="true" />
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/TreeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#401#407#0" expanded="true" />
+            <element signature="e#560#566#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
           </folding>
         </state>
       </provider>
