@@ -6,6 +6,7 @@ import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.HashSet;
 
 public class Jukebox3 {
     ArrayList<Song> songList = new ArrayList<Song>();
@@ -21,9 +22,12 @@ public class Jukebox3 {
         Collections.sort(songList);
         System.out.println(songList);
 
-        ArtistCompare artistCompare = new ArtistCompare();
-        Collections.sort(songList, artistCompare);
-        System.out.println(songList);
+//        ArtistCompare artistCompare = new ArtistCompare();
+//        Collections.sort(songList, artistCompare);
+//        System.out.println(songList);
+        HashSet<Song> songSet = new HashSet<Song>();
+        songSet.addAll(songList);
+        System.out.println(songSet);
     }
 
     void getSongs() {
@@ -51,7 +55,7 @@ public class Jukebox3 {
     class ArtistCompare implements Comparator<Song> {
         @Override
         public int compare(Song one, Song two) {
-            return one.getAtrist().compareTo(two.getAtrist());
+            return one.getArtist().compareTo(two.getArtist());
         }
     }
 }
