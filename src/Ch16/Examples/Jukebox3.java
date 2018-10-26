@@ -17,9 +17,8 @@ public class Jukebox3 {
         getSongs();
         System.out.println(songList);
 
-        //Не скомпилируется
-//        Collections.sort(songList);
-//        System.out.println(songList);
+        Collections.sort(songList);
+        System.out.println(songList);
     }
 
     void getSongs() {

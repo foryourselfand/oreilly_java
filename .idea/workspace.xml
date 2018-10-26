@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa4910e7-a96b-4f37-9d72-e34b6ae17bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ch16/Examples/Jukebox3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ch16/Examples/Jukebox3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch16/Examples/Jukebox3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ch16/Examples/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch16/Examples/Song.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -32,14 +32,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="64" />
-          <entry key="java" value="48625" />
-          <entry key="txt" value="1547" />
+          <entry key="java" value="48667" />
+          <entry key="txt" value="1593" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="48625" />
-          <entry key="PLAIN_TEXT" value="1611" />
+          <entry key="JAVA" value="48667" />
+          <entry key="PLAIN_TEXT" value="1657" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -74,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/Song.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+            <state relative-caret-position="596">
+              <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
               <folding>
                 <element signature="e#339#340#0" expanded="true" />
                 <element signature="e#367#368#0" expanded="true" />
@@ -87,6 +87,8 @@
                 <element signature="e#547#548#0" expanded="true" />
                 <element signature="e#593#594#0" expanded="true" />
                 <element signature="e#621#622#0" expanded="true" />
+                <element signature="e#698#699#0" expanded="true" />
+                <element signature="e#722#723#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -95,7 +97,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/Jukebox1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="-106">
               <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="41" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -107,8 +109,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/Jukebox3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+            <state relative-caret-position="432">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#121#127#0" expanded="true" />
@@ -261,7 +263,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/foryourselfand/Desktop/Java/oreilly_java/src/Ch9/Detective/SimUnit.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540548911474" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540549371825" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -294,7 +296,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Jukebox1">
+  <component name="RunManager" selected="Application.Jukebox3">
     <configuration name="BeatBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch14.Examples.Kitchen.BeatBox" />
       <module name="oreilly_java" />
@@ -334,6 +336,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Jukebox3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch16.Examples.Jukebox3" />
+      <module name="oreilly_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch16.Examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NewExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DLCb.N1.NewExample" />
       <module name="oreilly_java" />
@@ -347,33 +362,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAnon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DLCb.N5.TestAnon" />
-      <module name="oreilly_java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DLCb.N5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.TestAnon" />
       <item itemvalue="Application.BeatBox" />
       <item itemvalue="Application.NewExample" />
       <item itemvalue="Application.HfjEnum" />
       <item itemvalue="Application.Jukebox1" />
+      <item itemvalue="Application.Jukebox3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Jukebox3" />
         <item itemvalue="Application.Jukebox1" />
         <item itemvalue="Application.HfjEnum" />
         <item itemvalue="Application.NewExample" />
         <item itemvalue="Application.BeatBox" />
-        <item itemvalue="Application.TestAnon" />
       </list>
     </recent_temporary>
   </component>
@@ -410,14 +412,7 @@
       <workItem from="1540462161731" duration="9438000" />
       <workItem from="1540474983465" duration="729000" />
       <workItem from="1540483042722" duration="2715000" />
-      <workItem from="1540547769520" duration="1076000" />
-    </task>
-    <task id="LOCAL-00011" summary="some more and testy refactoring">
-      <created>1539846165873</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1539846165873</updated>
+      <workItem from="1540547769520" duration="1476000" />
     </task>
     <task id="LOCAL-00012" summary="Charapter 4 - Done">
       <created>1539846855643</created>
@@ -755,7 +750,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540548607529</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Second (or third?) version. Added class Song">
+      <created>1540549088582</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1540549088583</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -770,7 +772,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103513000" />
+    <option name="totallyTimeSpent" value="103913000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -886,7 +888,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Pencil" />
     <MESSAGE value="Some stuff with exceptions and Polymorphism" />
     <MESSAGE value="Simple MusicApp" />
     <MESSAGE value="Magnets in CH 12 and all Ch - Done" />
@@ -911,7 +912,8 @@
     <MESSAGE value=" Ability to save and load multiple files" />
     <MESSAGE value="DLC_B - DONE" />
     <MESSAGE value="First version. Work with collections" />
-    <option name="LAST_COMMIT_MESSAGE" value="First version. Work with collections" />
+    <MESSAGE value="Second (or third?) version. Added class Song" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second (or third?) version. Added class Song" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Kitchen/MiniMusicPlayer1.java">
@@ -1208,8 +1210,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/Song.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        <state relative-caret-position="596">
+          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
           <folding>
             <element signature="e#339#340#0" expanded="true" />
             <element signature="e#367#368#0" expanded="true" />
@@ -1221,13 +1223,15 @@
             <element signature="e#547#548#0" expanded="true" />
             <element signature="e#593#594#0" expanded="true" />
             <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/Jukebox1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="-106">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="41" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1237,8 +1241,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/Jukebox3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        <state relative-caret-position="432">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#121#127#0" expanded="true" />

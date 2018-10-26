@@ -1,6 +1,6 @@
 package Ch16.Examples;
 
-public class Song {
+public class Song implements Comparable<Song>{
     String title;
     String atrist;
     String rating;
@@ -32,5 +32,10 @@ public class Song {
     @Override
     public String toString() {
         return title;
+    }
+
+    @Override
+    public int compareTo(Song o) {
+        return title.compareTo(o.getTitle());
     }
 }
