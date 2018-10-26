@@ -4,7 +4,6 @@
     <list default="true" id="aa4910e7-a96b-4f37-9d72-e34b6ae17bb3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ch16/Examples/Jukebox3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch16/Examples/Jukebox3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ch16/Examples/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ch16/Examples/Song.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,14 +31,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="64" />
-          <entry key="java" value="48667" />
-          <entry key="txt" value="1593" />
+          <entry key="java" value="48773" />
+          <entry key="txt" value="1641" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="48667" />
-          <entry key="PLAIN_TEXT" value="1657" />
+          <entry key="JAVA" value="48773" />
+          <entry key="PLAIN_TEXT" value="1705" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -47,7 +46,7 @@
           <entry key="iml" value="3" />
           <entry key="java" value="497" />
           <entry key="jpg" value="5" />
-          <entry key="txt" value="3" />
+          <entry key="txt" value="4" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
@@ -56,7 +55,7 @@
           <entry key="IDEA_MODULE" value="3" />
           <entry key="Image" value="5" />
           <entry key="JAVA" value="497" />
-          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="PLAIN_TEXT" value="4" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -109,14 +108,25 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/Jukebox3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+            <state relative-caret-position="556">
+              <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#121#127#0" expanded="true" />
                 <element signature="e#288#289#0" expanded="true" />
                 <element signature="e#323#324#0" expanded="true" />
+                <element signature="e#1226#1227#0" expanded="true" />
+                <element signature="e#1261#1262#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/SongList.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -153,7 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch13/Examples/Button1.java" />
         <option value="$PROJECT_DIR$/src/Ch11/Examples/Kitchen/MiniMiniMusicApp.java" />
         <option value="$PROJECT_DIR$/src/Ch13/Examples/Kitchen/BeatBox.java" />
         <option value="$PROJECT_DIR$/src/Ch13/Examples/Mixed/FIngSwing.java" />
@@ -203,6 +212,7 @@
         <option value="$PROJECT_DIR$/src/DLCb/N1/HfjEnum.java" />
         <option value="$PROJECT_DIR$/src/Ch16/Examples/Jukebox1.java" />
         <option value="$PROJECT_DIR$/src/Ch16/Examples/Song.java" />
+        <option value="$PROJECT_DIR$/res/SongList.txt" />
         <option value="$PROJECT_DIR$/src/Ch16/Examples/Jukebox3.java" />
       </list>
     </option>
@@ -236,6 +246,11 @@
             <path>
               <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -263,7 +278,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/foryourselfand/Desktop/Java/oreilly_java/src/Ch9/Detective/SimUnit.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540549371825" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540549579661" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -412,14 +427,7 @@
       <workItem from="1540462161731" duration="9438000" />
       <workItem from="1540474983465" duration="729000" />
       <workItem from="1540483042722" duration="2715000" />
-      <workItem from="1540547769520" duration="1476000" />
-    </task>
-    <task id="LOCAL-00012" summary="Charapter 4 - Done">
-      <created>1539846855643</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1539846855643</updated>
+      <workItem from="1540547769520" duration="1739000" />
     </task>
     <task id="LOCAL-00013" summary="Now Chapter 4 is almost done">
       <created>1539896035785</created>
@@ -757,7 +765,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540549088583</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Working version">
+      <created>1540549423522</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1540549423522</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -772,7 +787,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103913000" />
+    <option name="totallyTimeSpent" value="104176000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -787,7 +802,7 @@
     <frame x="0" y="23" width="1397" height="1329" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49555376" visible="true" weight="0.16162361" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49555376" visible="true" weight="0.16162361" />
       <window_info id="Structure" order="1" sideWeight="0.504222" side_tool="true" weight="0.13606438" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -797,7 +812,7 @@
       <window_info id="Favorites" order="7" sideWeight="0.50444627" side_tool="true" weight="0.29594097" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32983023" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962714" visible="true" weight="0.32983023" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49962714" visible="true" weight="0.32983023" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935327" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -888,7 +903,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Some stuff with exceptions and Polymorphism" />
     <MESSAGE value="Simple MusicApp" />
     <MESSAGE value="Magnets in CH 12 and all Ch - Done" />
     <MESSAGE value="oops that was ch 11 not 12" />
@@ -913,16 +927,10 @@
     <MESSAGE value="DLC_B - DONE" />
     <MESSAGE value="First version. Work with collections" />
     <MESSAGE value="Second (or third?) version. Added class Song" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second (or third?) version. Added class Song" />
+    <MESSAGE value="Working version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working version" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch12/Examples/Kitchen/MiniMusicPlayer1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch11/Examples/Kitchen/MusicTest1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -1239,15 +1247,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/res/SongList.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/Jukebox3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        <state relative-caret-position="556">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#121#127#0" expanded="true" />
             <element signature="e#288#289#0" expanded="true" />
             <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#1226#1227#0" expanded="true" />
+            <element signature="e#1261#1262#0" expanded="true" />
           </folding>
         </state>
       </provider>
