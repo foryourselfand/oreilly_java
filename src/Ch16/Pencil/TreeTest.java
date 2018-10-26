@@ -1,4 +1,4 @@
-package Ch16.Examples;
+package Ch16.Pencil;
 
 import java.util.Comparator;
 import java.util.TreeSet;

@@ -1,4 +1,4 @@
-package Ch16.Examples;
+package Ch16.Pencil;
 
 public class Book implements Comparable<Book> {
     private String title;
