@@ -2,22 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa4910e7-a96b-4f37-9d72-e34b6ae17bb3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DLCb/N1/HfjEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DLCb/N1/Members.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DLCb/N1/NewExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DLCb/N1/OldExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DLCb/N2/Array2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DLCb/N3/StringBxxxx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch16/Examples/Jukebox1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ch16/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DlcB/N10/Bytes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N10/Bytes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DlcB/N10/MoreBytes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N10/MoreBytes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DlcB/N5/FooOuter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N5/FooOuter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DlcB/N5/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N5/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DlcB/N5/TestAnon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N5/TestAnon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DlcB/N6/RelatedMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N6/RelatedMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DlcB/N7/VisibleBlocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N7/VisibleBlocks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DlcB/N8/ControlOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N8/ControlOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DlcB/N9/StringsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DLCb/N9/StringsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,35 +17,35 @@
     <session id="94123748">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="22" />
+          <entry key="project.closed" value="23" />
           <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="3" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="8" />
-          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.8" value="3" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="23" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="64" />
-          <entry key="java" value="48128" />
-          <entry key="txt" value="1495" />
+          <entry key="java" value="48466" />
+          <entry key="txt" value="1509" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="48128" />
-          <entry key="PLAIN_TEXT" value="1559" />
+          <entry key="JAVA" value="48466" />
+          <entry key="PLAIN_TEXT" value="1573" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="3" />
-          <entry key="java" value="490" />
+          <entry key="java" value="492" />
           <entry key="jpg" value="5" />
           <entry key="txt" value="3" />
           <entry key="xml" value="1" />
@@ -68,7 +55,7 @@
         <counts>
           <entry key="IDEA_MODULE" value="3" />
           <entry key="Image" value="5" />
-          <entry key="JAVA" value="490" />
+          <entry key="JAVA" value="492" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="XML" value="1" />
         </counts>
@@ -83,12 +70,12 @@
     <favorites_list name="oreilly_java" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DLCb/N3/StringBxxxx.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+            <state relative-caret-position="768">
+              <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -105,7 +92,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DLCb/N1/OldExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="216">
               <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
               <folding>
                 <element signature="e#247#248#0" expanded="true" />
@@ -119,31 +106,39 @@
         <entry file="file://$PROJECT_DIR$/src/DLCb/N1/NewExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="576">
-              <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-              <folding>
-                <element signature="e#87#88#0" expanded="true" />
-                <element signature="e#124#125#0" expanded="true" />
-              </folding>
+              <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DLCb/N1/HfjEnum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Ch16/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/DLCb/N1/HfjEnum.java">
+        <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/Jukebox1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-178">
-              <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+            <state relative-caret-position="408">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
               <folding>
-                <element signature="e#123#124#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#406#407#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#499#500#0" expanded="true" />
-                <element signature="e#540#541#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#324#325#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#123#131#0" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -190,7 +185,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Ch13/Examples/PlayingComponents/TextAreaTest.java" />
         <option value="$PROJECT_DIR$/src/Ch13/Examples/PlayingComponents/TextArea2Test.java" />
         <option value="$PROJECT_DIR$/src/Ch13/Examples/PlayingComponents/TextFieldTest.java" />
         <option value="$PROJECT_DIR$/src/Ch13/Examples/Button1.java" />
@@ -241,6 +235,7 @@
         <option value="$PROJECT_DIR$/src/DLCb/N1/NewExample.java" />
         <option value="$PROJECT_DIR$/src/DLCb/N1/Names.java" />
         <option value="$PROJECT_DIR$/src/DLCb/N1/HfjEnum.java" />
+        <option value="$PROJECT_DIR$/src/Ch16/Examples/Jukebox1.java" />
       </list>
     </option>
   </component>
@@ -263,7 +258,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -280,19 +274,20 @@
               <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DLCb" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch16" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="oreilly_java" type="b2602c69:ProjectViewProjectNode" />
               <item name="oreilly_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DLCb" type="462c0819:PsiDirectoryNode" />
-              <item name="N1" type="462c0819:PsiDirectoryNode" />
+              <item name="Ch16" type="462c0819:PsiDirectoryNode" />
+              <item name="Examples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -300,7 +295,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/foryourselfand/Desktop/Java/oreilly_java/src/Ch9/Detective/SimUnit.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540485824736" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540548561539" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -333,7 +328,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HfjEnum">
+  <component name="RunManager" selected="Application.Jukebox1">
     <configuration name="BeatBox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ch14.Examples.Kitchen.BeatBox" />
       <module name="oreilly_java" />
@@ -347,12 +342,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ControlOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DLCb.N8.ControlOperators" />
+    <configuration name="HfjEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DLCb.N1.HfjEnum" />
       <module name="oreilly_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DLCb.N8.*" />
+          <option name="PATTERN" value="DLCb.N1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -360,12 +355,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HfjEnum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DLCb.N1.HfjEnum" />
+    <configuration name="Jukebox1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch16.Examples.Jukebox1" />
       <module name="oreilly_java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DLCb.N1.*" />
+          <option name="PATTERN" value="Ch16.Examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -400,19 +395,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ControlOperators" />
       <item itemvalue="Application.TestAnon" />
       <item itemvalue="Application.BeatBox" />
       <item itemvalue="Application.NewExample" />
       <item itemvalue="Application.HfjEnum" />
+      <item itemvalue="Application.Jukebox1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Jukebox1" />
         <item itemvalue="Application.HfjEnum" />
         <item itemvalue="Application.NewExample" />
         <item itemvalue="Application.BeatBox" />
         <item itemvalue="Application.TestAnon" />
-        <item itemvalue="Application.ControlOperators" />
       </list>
     </recent_temporary>
   </component>
@@ -448,14 +443,8 @@
       <workItem from="1540400522726" duration="11316000" />
       <workItem from="1540462161731" duration="9438000" />
       <workItem from="1540474983465" duration="729000" />
-      <workItem from="1540483042722" duration="2682000" />
-    </task>
-    <task id="LOCAL-00009" summary="before smth shit with area">
-      <created>1539816321562</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1539816321562</updated>
+      <workItem from="1540483042722" duration="2715000" />
+      <workItem from="1540547769520" duration="733000" />
     </task>
     <task id="LOCAL-00010" summary="some refactoring">
       <created>1539845604558</created>
@@ -793,7 +782,14 @@
       <option name="project" value="LOCAL" />
       <updated>1540483971213</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="DLC_B - DONE">
+      <created>1540485851646</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1540485851646</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -808,7 +804,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="102404000" />
+    <option name="totallyTimeSpent" value="103170000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -823,17 +819,17 @@
     <frame x="0" y="23" width="1397" height="1329" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49627793" visible="true" weight="0.2915129" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49555376" visible="true" weight="0.16162361" />
       <window_info id="Structure" order="1" sideWeight="0.504222" side_tool="true" weight="0.13606438" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
-      <window_info id="Favorites" order="7" sideWeight="0.5037221" side_tool="true" weight="0.13606438" />
+      <window_info id="Favorites" order="7" sideWeight="0.50444627" side_tool="true" weight="0.29594097" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32983023" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962714" visible="true" weight="0.32983023" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49962714" visible="true" weight="0.32983023" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935327" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -924,7 +920,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="Little exceprions in ch12" />
     <MESSAGE value="Little exceptions in ch12" />
     <MESSAGE value="Pencil" />
     <MESSAGE value="Some stuff with exceptions and Polymorphism" />
@@ -949,23 +944,10 @@
     <MESSAGE value="some serializable stuff" />
     <MESSAGE value="half of DlcB" />
     <MESSAGE value=" Ability to save and load multiple files" />
-    <option name="LAST_COMMIT_MESSAGE" value=" Ability to save and load multiple files" />
+    <MESSAGE value="DLC_B - DONE" />
+    <option name="LAST_COMMIT_MESSAGE" value="DLC_B - DONE" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Examples/Kitchen/MiniMusicCmdLine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ch11/Examples/Kitchen/MiniMiniMusicApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-91">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Ch13/Examples/PlayingComponents/TextArea2Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -1165,9 +1147,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1175,10 +1154,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
-          <folding>
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#157#158#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1186,10 +1161,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
-          <folding>
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1204,9 +1175,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="552">
           <caret line="23" selection-start-line="23" selection-end-line="26" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1214,9 +1182,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1489">
           <caret line="111" column="24" lean-forward="true" selection-start-line="111" selection-start-column="24" selection-end-line="111" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1231,16 +1196,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="979">
           <caret line="134" selection-start-line="134" selection-end-line="136" selection-end-column="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N1/New.java" />
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N1/Names.java" />
     <entry file="file://$PROJECT_DIR$/src/DLCb/N3/StringBxxxx.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        <state relative-caret-position="768">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -1251,23 +1215,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DLCb/N1/Members.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DLCb/N1/New.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DLCb/N1/OldExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="216">
           <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding>
             <element signature="e#247#248#0" expanded="true" />
@@ -1276,39 +1226,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DLCb/N1/Names.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DLCb/N1/NewExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
-          <caret line="26" column="22" lean-forward="true" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
-          <folding>
-            <element signature="e#87#88#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-          </folding>
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DLCb/N1/Members.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DLCb/N1/HfjEnum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-178">
-          <caret line="7" column="57" selection-start-line="7" selection-start-column="57" selection-end-line="7" selection-end-column="57" />
+        <state relative-caret-position="576">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch16/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ch16/Examples/Jukebox1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
           <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#123#131#0" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
           </folding>
         </state>
       </provider>
